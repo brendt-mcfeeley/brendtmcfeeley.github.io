@@ -100,9 +100,9 @@
       ]
     }
   ],
-  "work": [
+  /*"work": [
     {
-      /*"company": "UH Manoa Board of Publications",
+      "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
@@ -123,9 +123,9 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
-      ]*/
+      ]
     }
-  ],
+  ],*/
   "volunteer": [
     {
       "organization": "Hawaiian Humane Society",
