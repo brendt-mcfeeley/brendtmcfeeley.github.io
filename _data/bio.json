@@ -1,57 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Brendt McFeeley",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://brendtmcfeeley.github.io/images/github300.png",
+    "email": "brendt@hawaii.edu",
+    //"phone": "808-218-4913",
+    "website": "https://brendt.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2018.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      //"address": "",
+      "postalCode": "96797",
+      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "brendtmcfeeley",
+        "url": "http://github.com/brendtmcfeeley"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "brendt-mcfeeley",
+        "url": "https://linkedin.com/in/brendt-mcfeeley-96b137133"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mcfeelsbadman",
+        "url": "http://instagram.com/mcfeelsbadman"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "network administration",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "database management",
       "keywords": [
       ]
     }
@@ -84,9 +77,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-08-23",
       "endDate": "Present",
       "gpa": "",
       "courses": [
