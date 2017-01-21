@@ -63,19 +63,19 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL",
+        "HTML"
+        "CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "UNIX",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -86,8 +86,17 @@
       "studyType": "B.S.",
       "startDate": "2014-08-23",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.0",
       "courses": [
+        "ICS 111 : Introduction to Computer Science I"
+        "ICS 141 : Discrete Mathematics for Computer Science I"
+        "ICS 211 : Introduction to Computer Science II"
+        "ICS 212 : Program Structure"
+        "ICS 241 : Discrete Mathematics for Computer Science II"
+        "ICS 311 : Algorithms"
+        "ICS 314 : Software Engineering - In Progress"
+        "ICS 321 : Data Storage and Retrieval"
+        "ICS 421 : Database Systems - In Progress"
       ]
     }
   ],
