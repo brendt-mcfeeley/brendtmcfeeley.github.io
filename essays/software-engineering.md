@@ -1,19 +1,18 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
-date: 2015-09-08
+title: What Got Me Involved in Software Engineering
+date: 2017-01-20
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Software Engineering
+  - Computer Science
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/bart_soft.png">
 
-## Is there such thing as a stupid question?
+Every since I was a little kid I was always fascinated with computers. My parents actually told me they were worried about me because I would always spend so much time using it, admittedly primarily to only play video games. It wasnʻt until my freshman year of high school when I seriously thought about what I wanted to do in my life. Around this time I started to play around with computer hardware and code very simple things in HTML. My brother also attended a high profile college majoring in computer science and he would always tell me about the things they did in his classes. Making programs and seeing your work be created right in front of you appealed to me a lot and in my senior year of high school I decided that I wanted to major in Computer Science.
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+
 
 ## What’s a smart question?
 
