@@ -13,10 +13,8 @@ summary: A text based program that stores information of bank records. Developed
 
 <img class="ui medium right floated rounded image" src="../images/bank-pro1.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This is a program that I developed for my ICS 212 class in Fall 2016. This project helped me learn how to design programs in C and C++ and how to implement data structures such as structs.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This program was originally written using [C](http://www.tutorialspoint.com/cprogramming/c_overview.htm?), then rewritten later using [C++](http://www.cplusplus.com/doc/tutorial/). We were given around two weeks to complete each project. Although some code is reused in the C++ implementation, we used objects along with structs and added in extra functions such as a recursive reverse function.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I gained valuable skills while devloping this program. One of the most important skills I learned is the importance of a user friendly UI. The easier you make the program for a user, the less problems you will have to troubleshoot. I also learned a lot about time management and the importance of objects and class hierarchy.
