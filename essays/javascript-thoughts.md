@@ -15,7 +15,7 @@ labels:
 
 I started my coding adventure when I was in high school using tools such as CodeCademy learning simple languages like JavaScript and HTML. The languages that I am familar with are Java, C, and C++. Initially JavaScript looked similar to the other object oriented programming languages such as Java and C++ but I quickly learned that it was really different. I was having trouble learning the basics of JavaScript through [FreeCodeCamp](https://www.freecodecamp.com) because of the small syntax differences.
 
-For example in Java, C, and C++, declaring a variable is intuitive :
+For example in Java, C, and C++, declaring a variable is intuitive : xd
 
 ```
 int x = 50;
