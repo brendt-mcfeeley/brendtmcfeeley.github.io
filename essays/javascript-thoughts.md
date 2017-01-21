@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/javascript.png">
 
 ## Is there such thing as a stupid question?
 
