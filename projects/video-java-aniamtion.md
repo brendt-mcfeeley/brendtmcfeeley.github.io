@@ -2,24 +2,19 @@
 layout: project
 type: project
 published : false
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/gosling.png
+title: Music Video Animation
+permalink: projects/video-animation
+date: 2014
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Eclipse
+  - OOP
+summary: A Java based animation done in ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/gosling2.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+[This video](<iframe width="560" height="315" src="https://www.youtube.com/embed/kyawH1BredQ" frameborder="0" allowfullscreen></iframe>) was the final project for our ICS 111 class which was our first introduction to Java and to programming. Doing this project helped me learn the basics of object oriented programming.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I learned the fundamentals of programming from this course such as using simple class hierarchy in Java and how use different data types such as int, char, string, and booleans. I also learned how to evenly distribute workload within a group since there were five people assigned to one group. We learned colalbortion with others is a very crucial aspect to computer science.
