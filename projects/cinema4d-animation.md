@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/c4d.png
-title: Vacay
+title: Cinema4D Animation
 permalink: projects/animation
 date: 2012
 labels:
