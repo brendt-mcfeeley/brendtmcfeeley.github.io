@@ -11,9 +11,9 @@ labels:
 
 <img class="ui medium left floated image" src="../images/javascript.png">
 
-## Is there such thing as a stupid question?
+## Learning JavaScript
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+I started my coding adventure when I was in high school using tools such as CodeCademy learning simple languages like JavaScript and HTML. The languages that I am familar with are Java, C, and C++. Initially JavaScript looked similar to the other object oriented programming languages such as Java and C++ but I quickly learned that it was really different. I was actually having trouble learning the basics of JavaScript through [FreeCodeCamp](https://www.freecodecamp.com)
 
 ## What’s a smart question?
 
