@@ -16,17 +16,27 @@ labels:
 I started my coding adventure when I was in high school using tools such as CodeCademy learning simple languages like JavaScript and HTML. The languages that I am familar with are Java, C, and C++. Initially JavaScript looked similar to the other object oriented programming languages such as Java and C++ but I quickly learned that it was really different. I was having trouble learning the basics of JavaScript through [FreeCodeCamp](https://www.freecodecamp.com) because of the small syntax differences.
 
 For example in Java, C, and C++, declaring a variable is intuitive :
+
 ```
 int x = 50;
+
 float y = 40.5;
+
 char z[5] = "hi" ;
+
 ```
+
 But in JavaScript you only have three declaration types for all variables :
+
 ```
 var intX = 50;
+
 let y = 40.5;
+
 const z = ["hi"]; //var, let, and const all have the same meaning, they only define how the variable can be used/modified
+
 ```
+
 Althought it seems easier that there is only 1-3 types of initializers, it confuses me sometimes because it is ingrained in my mind to use int, float, etc. from the other languages that I learned before.
 
 
