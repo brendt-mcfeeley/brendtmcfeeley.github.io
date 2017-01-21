@@ -88,7 +88,7 @@
       "endDate": "Present",
       "gpa": "3.0",
       "courses": [
-        "ICS 111 : Introduction to Computer Science I",
+        /*"ICS 111 : Introduction to Computer Science I",
         "ICS 141 : Discrete Mathematics for Computer Science I",
         "ICS 211 : Introduction to Computer Science II",
         "ICS 212 : Program Structure",
@@ -96,13 +96,13 @@
         "ICS 311 : Algorithms",
         "ICS 314 : Software Engineering - In Progress",
         "ICS 321 : Data Storage and Retrieval",
-        "ICS 421 : Database Systems - In Progress",
+        "ICS 421 : Database Systems - In Progress",*/
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      /*"company": "UH Manoa Board of Publications",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
@@ -123,23 +123,23 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
-      ]
+      ]*/
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Hawaiian Humane Society",
+      "website": "http://hawaiianhumane.org/",
+      "position": "Dog Walker/Groomer",
+      "startDate": "2015-10-19",
+      "endDate": "2016-12-31",
+      "summary": "General Volunteer at the Hawaiian Humane Society with training for the physical health of animals",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assist families in meeting with animals they wish to adopt",
+        "Maintain animals physical health by either running or walking"
       ]
     },
-    {
+    /*{
       "organization": "",
       "website": "",
       "position": "Professional organization involvement",
@@ -151,21 +151,21 @@
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
+    }*/
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2014-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
+    /*{
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    }*/
   ],
   "references": [
     {
