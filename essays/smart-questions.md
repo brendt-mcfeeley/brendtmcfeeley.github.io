@@ -15,8 +15,8 @@ labels:
 
 ## What is a smart question?
 Everyone has heard the saying "There is no such thing as a stupid question." Most of us probably know someone that likes to ask dumb questions or have seen something online that make us do a mental double take. 
-<p align="right">
-  <img src="../images/simon.png" width="350"/>
+<p align="center">
+  <img src="../images/simon.png" height="250" width="250"/>
 </p>
 We just need a couple of extra seconds to comprehend what they asked. A smart question is a question that relays your thoughts and questions in a detailed manner, but also in a short and precise manner. In addition a smart question should show that you put in effort trying to find the answer you're looking for.
 
