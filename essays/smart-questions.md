@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img class="ui medium left floated image" src="../images/strong_questions.png">
+<img class="ui medium left floated image" src="../images/strong-questions.png">
 
 ## What is a smart question?
 Everyone has heard the saying "There is no such thing as a stupid question." Most of us probably know someone that likes to ask dumb questions or have seen something online that make us do a mental double take. <img class="ui small right floated image" src="../images/simon.png"> We just need a couple of extra seconds to comprehend what they asked. A smart question is a question that relays your thoughts and questions in a detailed manner, but also in a short and precise manner. In addition a smart question should show that you put in effort trying to find the answer you're looking for.
