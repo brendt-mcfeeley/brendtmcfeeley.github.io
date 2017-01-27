@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img class="ui medium left floated image" src="../images/strong_questions.jpg">
+<img class="ui medium left floated image" src="../images/strong_questions.png">
 
 ## Learning JavaScript
 
