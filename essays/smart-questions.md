@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published : false
 title: Smart Questions vs. Bad Questions and Why They Matter
 date: 2017-01-26
 labels:
