@@ -8,10 +8,10 @@ labels:
   - Software Engineering
   - Communication
   - Learning
-  - Questioning
+  - Stack Overflow
 ---
 
-<img class="ui medium left floated image" src="../images/javascript.png">
+<img class="ui medium left floated image" src="../images/strong_questions.jpg">
 
 ## Learning JavaScript
 
