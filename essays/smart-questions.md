@@ -59,10 +59,5 @@ the next line is where i am having trouble it says: unexpected '@' in program
 This is an example of a not so smart question. First of all Mitchell does not even state what the error he is encountering in his code. Obviously people can not help him with his problem if he does not provide the problem in the first place. Second it sounds like he tried to fix his problem without understaind the actual problem behind it (evident from "removing the error but it only created more errors"). Lastly he does not punctuate correctly and hopes that people can fix the problem for him.
 
 
-## My Thoughts on JavaScript in Software Engineering
-
-I think JavaScript is an excellent language to learn in a Software Engineering course. It's a very simple language to use at the top level and it is a powerful language that is widely used. Many apps today are written in JavaScript so I feel that being able to keep up with modern times and adding a language like JavaScript to my list of languages will benefit me in the future. 
-
-## Athletic Software Engineering (WODs)
-
-ICS314 is the first class that introduced the workout of the day (WOD). Essentially it is a timed question to help students think critically on the spot. I think it is an amazing idea and I think most programming classes should implement this type of learning. The WOD is very stressful but it can simulate an enviornment simular to one at a job interview where the interviewer wants to see you answer a question on the fly. For example I was watching a mock Google interview put up by Google themselves and the interviewer watned the interviewee to answer the question and see his critical thinking process. I feel like the WOD can simulate this process extremely well and prepare people for future interviews.
+## Smart questions, the better way to learn
+We all know that most people do not learn more effectively when they get handed the solution to problems. Coming up with questions yourself give you some sort of ground to learn more from. Coming up with detailed and precise questions help the answerer answer in a helpful way too. For example the most upvoted answer to duplode's questions was a very detailed and thorough answer that combined picture visualizations and code examples to help him answer his question. On the contrary, people who look for answers on StackExchange (bad questions) do not learn as much because they are expecting other people to do their work for them without learning the steps on how to actually solve their own problem.
