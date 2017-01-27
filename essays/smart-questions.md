@@ -11,8 +11,6 @@ labels:
   - Stack Overflow
 ---
 
-<img class="ui medium left floated image" src="../images/strong-questions.png">
-
 ## What is a smart question?
 Everyone has heard the saying "There is no such thing as a stupid question." Most of us probably know someone that likes to ask dumb questions or have seen something online that make us do a mental double take. 
 <p align="center">
@@ -43,32 +41,22 @@ The code is summing up some independent terms, and the order should not matter.
 This is an example of a smart question because he is very precise and to the point. He has questions about what is happening and shows that he has put some previous thought into his question by providing tests/examples in multiple languages to show that it is a universal problem.
 
 ## Now, what is not a smart question?
-A bad question is a question where the person jumps straight to the conclusion and wants answers right away without trying any other solutions out first. For example, someone is having trouble with their code and it does not work, this person then decides that instead of searching around on forums or looking at websties like StackOverflow for people that had similar problems, they deicde to hop on StackOverflow themselves and immedietly ask for help. 
+A bad question (or not so smart question) is a question where the person jumps straight to the conclusion and wants answers right away without trying any other solutions out first. For example, someone is having trouble with their code and it does not work, this person then decides that instead of searching around on forums or looking at websties like StackOverflow for people that had similar problems, they deicde to hop on StackOverflow themselves and immedietly ask for help. 
 without explaining that they have tried alternative methods but had failure.
 
-For example in Java, C, and C++, declaring a variable is intuitive :
+Here is an example from user Mitchell on [StackOverflow.](http://stackoverflow.com/)
 
 ```
-int x = 50;
+Question : i am developing my first app and i cannot figure out this error here is my code
+this is my code. can someone explain how to fix it in step by step directions thanks i tried removing the error but it only created more errors if anyone could help i would appreciate it
 
-float y = 40.5;
+//Entire code from this app is posted here.
 
-char z[5] = "hi" ;
-
-```
-
-But in JavaScript you only have three declaration types for all variables :
-
-```
-var intX = 50;
-
-let y = 40.5;
-
-const z = ["hi"]; //var, let, and const all have the same meaning, they only define how the variable can be used/modified
+the next line is where i am having trouble it says: unexpected '@' in program
 
 ```
 
-Althought it seems easier that there is only 1-3 types of initializers, it confuses me sometimes because it is ingrained in my mind to use int, float, etc. from the other languages that I learned before.
+This is an example of a not so smart question. First of all Mitchell does not even state what the error he is encountering in his code. Obviously people can not help him with his problem if he does not provide the problem in the first place. Second it sounds like he tried to fix his problem without understaind the actual problem behind it (evident from "removing the error but it only created more errors"). Lastly he does not punctuate correctly and hopes that people can fix the problem for him.
 
 
 ## My Thoughts on JavaScript in Software Engineering
