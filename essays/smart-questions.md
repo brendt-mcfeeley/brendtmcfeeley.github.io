@@ -59,5 +59,9 @@ the next line is where i am having trouble it says: unexpected '@' in program
 This is an example of a not so smart question. First of all Mitchell does not even state what the error he is encountering in his code. Obviously people can not help him with his problem if he does not provide the problem in the first place. Second it sounds like he tried to fix his problem without understaind the actual problem behind it (evident from "removing the error but it only created more errors"). Lastly he does not punctuate correctly and hopes that people can fix the problem for him.
 
 
-## Smart quess help the answerer answer in a helpful way too. Fotions, the better way to learn
-We all know that most people do not learn more effectively when they get handed the solution to problems. Coming up with questions yourself give you some sort of ground to learn from. Coming up with detailed and precise questionr example the most upvoted answer to duplode's questions was a very detailed and thorough answer that combined picture visualizations and code examples to help him answer his question. On the contrary, people who look for answers on StackExchange (bad questions) do not learn as much because they are expecting other people to do their work for them without learning the steps on how to actually solve their own problem.
+## Smart questions, a better way to learn
+We all know that most people do not learn more effectively when they get handed the solution to problems. Coming up with questions yourself give you some sort of ground to learn from. Coming up with detailed and precise questions help the answerer answer in a helpful way too.
+<p align="right">
+  <img src="../images/simon.png" height="200" width="350"/>
+</p>
+For example the most upvoted answer to duplode's questions was a very detailed and thorough answer that combined picture visualizations and code examples to help him answer his question. On the contrary, people who look for answers on StackExchange (bad questions) do not learn as much because they are expecting other people to do their work for them without learning the steps on how to actually solve their own problem.
