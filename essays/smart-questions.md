@@ -61,7 +61,5 @@ This is an example of a not so smart question. First of all Mitchell does not ev
 
 ## Smart questions, a better way to learn
 We all know that most people do not learn more effectively when they get handed the solution to problems. Coming up with questions yourself give you some sort of ground to learn from. Coming up with detailed and precise questions help the answerer answer in a helpful way too.
-<p align="right">
-  <img src="../images/strong-questions.png" height="200" width="350"/>
-</p>
+<img class="ui medium right floated rounded image" src="../images/strong-questions.png">
 For example the most upvoted answer to duplode's questions was a very detailed and thorough answer that combined picture visualizations and code examples to help him answer his question. On the contrary, people who look for answers on StackExchange (bad questions) do not learn as much because they are expecting other people to do their work for them without learning the steps on how to actually solve their own problem.
