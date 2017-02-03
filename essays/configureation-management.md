@@ -11,7 +11,9 @@ labels:
 
 ## Disorganized Mess
 
-I think most people would agree that they are not the most organized people. I can't lie I'm definitely not the most organized person either. That is why I believe configuration management to be a really important tool to learn. Without proper documentation and configuration management practices a person can easily lose files and forget where their files are and the time spent trying to find files can add up rather quickly and delay your project or assignment by a lot. In my ICS 212 class, we were writing projects with around 750-1500 lines of code spread across multiple files. I did not use a configuration management tool like SCCS (Source Code Control System) or Git. I constantly changed code all the time and then got lost when something did not work. My solution to this was to create "test" files where I copied the code, edited it and copied it back into my original file. I got lost really fast because I suddenly had to browse through at least 10+ different files.
+I think most people would agree that they are not the most organized people. I can't lie I'm definitely not the most organized person either. That is why I believe configuration management to be a really important tool to learn. Without proper documentation and configuration management practices a person can easily lose files and forget where their files are and the time spent trying to find files can add up rather quickly and delay your project or assignment by a lot. 
+
+In my ICS 212 class, we were writing projects with around 750-1500 lines of code spread across multiple files. I did not use a configuration management tool like SCCS (Source Code Control System) or Git. I constantly changed code all the time and then got lost when something did not work. My solution to this was to create "test" files where I copied the code, edited it and copied it back into my original file. I got lost really fast because I suddenly had to browse through at least 10+ different files.
 
 <p align="center">
   <img src="../images/disorganized-schizophrenia-symptoms-01.png" height="275" width="375"/>
