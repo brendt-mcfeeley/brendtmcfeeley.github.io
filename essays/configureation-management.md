@@ -22,7 +22,7 @@ I think most people would agree that they are not the most organized people. I c
 Git is an example of a revision control system. It manages your source code history. It is similar to SCCS where it can save previous versions of your code so you can refer back to it later if your new version does not work. It also allows you to collaborate with other people so you can all edit your own versions of the code and document the changes that happened. GitHub on the other hand is a service that hosts Git repositories. It is a configuration management system because you can share your repositores/code with others, access other users repositories, and store local copies of data.
 
 ## Which made which more popular? The Git chicken or the GitHub egg?
-<p align="right">
+<p align="center">
   <img src="../images/gitVgithub.png" height="250" width="375"/>
 </p>
 
