@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published : true
 title: ESLint it Like you Meant it
 date: 2017-02-09
 labels:
