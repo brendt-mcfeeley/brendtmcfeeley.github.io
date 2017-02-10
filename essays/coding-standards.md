@@ -1,31 +1,69 @@
 ---
 layout: essay
 type: essay
-title: Configuration Management
+published : false
+title: CREATIVE TITLE HERE
 date: 2017-01-31
 labels:
-  - GitHub
-  - Git
-  - Config Management
+  - Coding
+  - ESLint
+  - Standards
 ---
 
-## Disorganized Mess
-
-I think most people would agree that they are not the most organized people. I can't lie I'm definitely not the most organized person either. That is why I believe configuration management to be a really important tool to learn. Without proper documentation and configuration management practices a person can easily lose files and forget where their files are and the time spent trying to find files can add up rather quickly and delay your project or assignment by a lot. 
-
-In my ICS 212 class, we were writing projects with around 750-1500 lines of code spread across multiple files. I did not use a configuration management tool like SCCS (Source Code Control System) or Git. I constantly changed code all the time and then got lost when something did not work. My solution to this was to create "test" files where I copied the code, edited it and copied it back into my original file. I got lost really fast because I suddenly had to browse through at least 10+ different files.
-
 <p align="center">
-  <img src="../images/disorganized-schizophrenia-symptoms-01.png" height="275" width="375"/>
+  <img src="../images/codeIsRight.png" height="350" width="275"/>
 </p>
 
+## ESLint
 
-## Git and GitHub
-Git is an example of a revision control system. It manages your source code history. It is similar to SCCS where it can save previous versions of your code so you can refer back to it later if your new version does not work. It also allows you to collaborate with other people so you can all edit your own versions of the code and document the changes that happened. GitHub on the other hand is a service that hosts Git repositories. It is a configuration management system because you can share your repositores/code with others, access other users repositories, and store local copies of data.
+(ESLint)[http://eslint.org/) is a JavaScript linting utility meant to make your life hard and miserable and annoy you in every way possible. Did you think you knew how to code well and the code you're going to compile will work on the first try? Don't worry you're just going to have to fix about 50 errors that ESLint gives you.
 
-## Which made which more popular? The Git chicken or the GitHub egg?
-<p align="center">
-  <img src="../images/gitVgithub.png" height="250" width="375"/>
+Joking aside, since JavaScript is a loosely-written language there are a lot of small things in your code that could cause an error in the future. ESLint will scan your code for parts that may impact your program in the future. It is trying to cement a better way to write code in you. Also ESLint does not require you to execute and compile your code to find the coding errors, it is able to check your code inside your IDE such as IntelliJ.
+
+For example, everyone loves to use i++ because it's simple and works in pretty much every language. But in JavaScript a small difference in whitspace can alter your code in unintended ways.
+
+We expect i++ to do this :
+```
+let i = 10;
+let j = 11;
+i++
+j
+console.log(i , j); // i = 11, j = 11
+
+```
+
+But a simple whitespace left open can actually change a value of a variable you did not intend to change.
+
+```
+let i = 10;
+let j = 11;
+i
+++
+j
+console.log(i , j); // i = 10, j = 12
+
+```
+ESLint will parse your code for unary operators and tell you to replace them with stricter rules
+
+```
+let i = 10;
+let j = 11;
+i += 1;
+j -= 1;
+console.log(i , j); // i = 11, j = 9
+```
+But when I finally get that green checkmark from ESLint after fixing my entire code, I get a sense of satisfaction knowing it probably won't screw up in the future due to syntax but because of my inability to code correctly.
+
+## My Take on "Coding Standards"
+
+I agree that the most useful software engineering technique to improve quality of your code is coding standards. Since almost every language has some sort of coding standard linter, I don't think there should be any excuse that your code will have problems running in the future because of a small mishap like putting in an extra whitespace. I don't believe that coding standards help you learn how to code but they do help you learn a language. Learning to code and learning to code perfectly in a certain language are two different things. Most code you write will run in some languages but all the code you write will not run perfectly unless you learn the ins and outs of the coding language.
+
+But I do think there is another thing that is very important to learn as a software engineer. It's the ability to organize your code in a clear and concise manner so that when someone else reads you code they don't have to stare at your code for a bare minimum of 500 hours to understand what is going on. Unorganized code is probably my biggest pet peeve in computer science because not only does it make it hard for other people to read your code, but I don't even understand how the person writing it can read it either. 
+
+<p align="left">
+  <img src="../images/messycode.png" height="300" width="325"/>
 </p>
 
-I believe that GitHub is popular because of git. Git was created to share repositories between several people. On the other hand GitHub is very popular because now people can share repositores between people all around the world. You would have to add every single person to a single Git in order to share a repository globally but now it can be done all in one place using GitHub.
+<p align="right">
+  <img src="../images/pukeEmoji.png" height="300" width="300"/>
+</p>
