@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-published : false
-title: CREATIVE TITLE HERE
+published : true
+title: ESLint it Like you Meant it
 date: 2017-01-31
 labels:
   - Coding
