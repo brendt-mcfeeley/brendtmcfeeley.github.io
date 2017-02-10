@@ -15,7 +15,7 @@ labels:
 
 ## ESLint
 
-(ESLint)[http://eslint.org/] is a JavaScript linting utility meant to make your life hard and miserable and annoy you in every way possible. Did you think you knew how to code well and the code you're going to compile will work on the first try? Don't worry you're just going to have to fix about 50 errors that ESLint gives you.
+[ESLint](http://eslint.org/) is a JavaScript linting utility meant to make your life hard and miserable and annoy you in every way possible. Did you think you knew how to code well and the code you're going to compile will work on the first try? Don't worry you're just going to have to fix about 50 errors that ESLint gives you.
 
 Joking aside, since JavaScript is a loosely-written language there are a lot of small things in your code that could cause an error in the future. ESLint will scan your code for parts that may impact your program in the future. It is trying to cement a better way to write code in you. Also ESLint does not require you to execute and compile your code to find the coding errors, it is able to check your code inside your IDE such as IntelliJ.
 
