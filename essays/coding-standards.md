@@ -22,6 +22,7 @@ Joking aside, since JavaScript is a loosely-written language there are a lot of 
 For example, everyone loves to use i++ because it's simple and works in pretty much every language. But in JavaScript a small difference in whitspace can alter your code in unintended ways.
 
 We expect i++ to do this :
+
 ```
 let i = 10;
 let j = 11;
@@ -59,10 +60,10 @@ I agree that the most useful software engineering technique to improve quality o
 
 But I do think there is another thing that is very important to learn as a software engineer. It's the ability to organize your code in a clear and concise manner so that when someone else reads you code they don't have to stare at your code for a bare minimum of 500 hours to understand what is going on. Unorganized code is probably my biggest pet peeve in computer science because not only does it make it hard for other people to read your code, but I don't even understand how the person writing it can read it either. 
 
-<p align="left">
-  <img src="../images/messycode.png" height="200" width="225"/>
+<p align="center">
+  <img src="../images/messycode.png" height="300" width="425"/>
 </p>
 
-<p align="right">
-  <img src="../images/pukeEmoji.png" height="250" width="250"/>
+<p align="center">
+  <img src="../images/pukeEmoji.png" height="200" width="200"/>
 </p>
