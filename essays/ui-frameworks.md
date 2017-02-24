@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks : Barney Stinson of Websites
+title: UI Frameworks - Barney Stinson of Websites
 date: 2017-02-23
 labels:
   - Frameworks
@@ -14,13 +14,13 @@ labels:
   <img src="../images/htmlVSsui.png" height="200" width="700"/>
 </p>
 
-# What do framework websites and Barney Stinson have in common?
+**What do framework websites and Barney Stinson have in common?**
 
 <p align="center">
   <img src="../images/barneyWebsite.png" height="350" width="700"/>
 </p>
 
-##### They're both sharp!
+**They're both sharp!**
 
 # What is a UI Framework?
 
