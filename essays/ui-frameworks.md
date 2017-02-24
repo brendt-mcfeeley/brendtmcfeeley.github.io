@@ -10,7 +10,7 @@ labels:
   - CSS
 ---
 
-#### What do framework websites and Barney Stinson have in common?
+##### What do framework websites and Barney Stinson have in common?
 
 <p align="center">
   <img src="../images/barneyWebsite.png" height="350" width="950"/>
