@@ -30,69 +30,17 @@ What's the first thing that comes to your mind? Probably that the website on the
 
 ## Why do you websites need to be visually appealing?
 
-According to research such as [this](https://research.googleblog.com/2012/08/users-love-simple-and-familiar-designs.html) one done by Google, your website needs to make a great first impression just like how you need to make a first great impression in real life. According to the study the average user takes only 50 miliseconds (0.05 seconds!) to decide whether they want to stay on the website. And according to the research >This first impression depends on many factors: structure, colors, spacing, symmetry, amount of text, fonts, and more.
+According to research such as [this](https://research.googleblog.com/2012/08/users-love-simple-and-familiar-designs.html) one done by Google, your website needs to make a great first impression just like how you need to make a first great impression in real life. According to the study the average user takes only 50 miliseconds (0.05 seconds!) to decide whether they want to stay on the website. And according to the research :
 >This first impression depends on many factors: structure, colors, spacing, symmetry, amount of text, fonts, and more.
 
+What do websties built with frameworks and the research have in common? The websites built with frameworks have all those things! While sites built with raw HTML & CSS look like they're from the 90's and have no personaility. And you definitely do not want people to be clicking away from your site, that completely defeats the purpose of a website.
 
-Websites that are built 
+# Benefits of using a framework
 
-# Benefits of using a framework (the good)
--visually appealing
--modern, etc- does more than raw
-organized
-incorporates html and css elements
-personal experiences using it
-people saying "something that pops!"
+The benefits of using a framework are quite apparent. Your websites turn out visually appealing which is very important. They look modern and they convey the subconcious thought that someone put a lot of work into the website (which is true, it takes a lot of time to make a website look amazing). You can easily organize a website with various headers, footers, containers, grids, lists, and more. An organized website makes a user happy. Do you remember a time when you came in contact with an unorganized website? You probably wanted nothing more to do with it and just exit out of it. 
 
+Also since frameworks include both HTML and CSS elements you also learn the language at the same time as learning the syntax of the framework! You kill two birds with one stone. Also have you ever heard a designer complain about a client saying "MAKE SOMETHING THAT POPS!!!". Well now you know where to start. Instantly applying a framework to a website makes it "pop" and stand out from a website that was made from raw HTML and CSS.
 
 # Disadvantages of using a framework (the bad)
-harder to use
-takes time to learn
-takes creativity
 
-
-
-```
-let i = 10;
-let j = 11;
-i++
-j
-console.log(i , j); // i = 11, j = 11
-
-```
-
-But a simple whitespace left open can actually change a value of a variable you did not intend to change.
-
-```
-let i = 10;
-let j = 11;
-i
-++
-j
-console.log(i , j); // i = 10, j = 12
-
-```
-ESLint will parse your code for unary operators and tell you to replace them with stricter rules
-
-```
-let i = 10;
-let j = 11;
-i += 1;
-j -= 1;
-console.log(i , j); // i = 11, j = 9
-```
-But when I finally get that green checkmark from ESLint after fixing my entire code, I get a sense of satisfaction knowing it probably won't screw up in the future due to syntax but because of my inability to code correctly.
-
-## My Take on "Coding Standards"
-
-I agree that the most useful software engineering technique to improve quality of your code is coding standards. Since almost every language has some sort of coding standard linter, I don't think there should be any excuse that your code will have problems running in the future because of a small mishap like putting in an extra whitespace. I don't believe that coding standards help you learn how to code but they do help you learn a language. Learning to code and learning to code perfectly in a certain language are two different things. Most code you write will run in some languages but all the code you write will not run perfectly unless you learn the ins and outs of the coding language.
-
-But I do think there is another thing that is very important to learn as a software engineer. It's the ability to organize your code in a clear and concise manner so that when someone else reads you code they don't have to stare at your code for a bare minimum of 500 hours to understand what is going on. Unorganized code is probably my biggest pet peeve in computer science because not only does it make it hard for other people to read your code, but I don't even understand how the person writing it can read it either. 
-
-<p align="center">
-  <img src="../images/messycode.png" height="300" width="425"/>
-</p>
-
-<p align="center">
-  <img src="../images/pukeEmoji.png" height="200" width="200"/>
-</p>
+Now with most good things there has to be a bad side. One bad thing about learning frameworks is that at first they seem imtimidating and hard to use. So far in my experience this is true. The only way to be comfortable using a framework is to just jump in and play around with all the different classes and what they do. There is no other way around it because you have to see how the elements of the framework interact with each other and display on screen. The second bad thing about using a framework is that it takes a lot of creativity. You could just copy a websites design and call it a day but then what are you really learning? The process of learning a framework also includes a creativity aspect. Certain websites would look better with certain layouts and if you can't visiualize the layout in your head you will have a very hard time building the website.
