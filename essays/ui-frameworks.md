@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ESLint it Like you Meant it
+title: UI Frameworks : Barney Stinson of Websites
 date: 2017-02-23
 labels:
   - Frameworks
@@ -14,7 +14,15 @@ labels:
   <img src="../images/htmlVSsui.png" height="200" width="700"/>
 </p>
 
-## What is a UI Framework?
+# What do framework websites and Barney Stinson have in common?
+
+<p align="center">
+  <img src="../images/barneyWebsite.png" height="350" width="700"/>
+</p>
+
+##### They're both sharp!
+
+# What is a UI Framework?
 
 First of all, what is a UI Framework? UI stands for user interface and a UI Framework is a software tool to help you build a website that looks like a real website. There are many different frameworks such as [Semantic UI](http://semantic-ui.com/), [Bootstrap](http://getbootstrap.com/), and [Foundation](http://foundation.zurb.com/).
 
@@ -28,7 +36,7 @@ For example, on the left is an example of a website built purely with HTML & CSS
 
 What's the first thing that comes to your mind? Probably that the website on the right is more visually appealing. Not because it has more colors or whatnot, but because it's organization and structure is a lot more modern and what you expect to see on a website now days.
 
-## Why do you websites need to be visually appealing?
+# Why do websites need to be visually appealing?
 
 According to research such as [this](https://research.googleblog.com/2012/08/users-love-simple-and-familiar-designs.html) one done by Google, your website needs to make a great first impression just like how you need to make a first great impression in real life. According to the study the average user takes only 50 miliseconds (0.05 seconds!) to decide whether they want to stay on the website. And according to the research :
 >This first impression depends on many factors: structure, colors, spacing, symmetry, amount of text, fonts, and more.
