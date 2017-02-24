@@ -18,7 +18,7 @@ labels:
 
 First of all, what is a UI Framework? UI stands for user interface and a UI Framework is a software tool to help you build a website that looks like a real website. There are many different frameworks such as [Semantic UI](http://semantic-ui.com/), [Bootstrap](http://getbootstrap.com/), and [Foundation](http://foundation.zurb.com/).
 
-It won't do much if I just explain to you what a UI Framework is, visual examples are the easiest way to explain what UI Interfaces do.
+It won't do much if I just explain to you what a UI Framework is, visual examples are the easiest way to explain what UI Frameworks do.
 
 For example, on the left is an example of a website built purely with HTML & CSS. Next to it there is an example of a website built using Semantic UI.
 
