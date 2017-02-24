@@ -11,7 +11,7 @@ labels:
 ---
 
 <p align="center">
-  <img src="../images/htmlVSsui.png" height="200" width="600"/>
+  <img src="../images/htmlVSsui.png" height="200" width="700"/>
 </p>
 
 ## What is a UI Framework?
@@ -23,7 +23,7 @@ It won't do much if I just explain to you what a UI Framework is, visual example
 For example, here is a an example of a website built purely with HTML & CSS, which is on the left. Next to it there is an example of a website built using a framework called Semantic UI.
 
 <p align="center">
-  <img src="../images/rawVSframework.png" height="350" width="800"/>
+  <img src="../images/rawVSframework.png" height="350" width="900"/>
 </p>
 
 ```
