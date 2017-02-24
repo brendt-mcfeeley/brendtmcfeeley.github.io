@@ -26,6 +26,10 @@ For example, on the left is an example of a website built purely with HTML & CSS
   <img src="../images/rawVSframework.png" height="350" width="900"/>
 </p>
 
+What's the first thing that comes to your mind? Probably that the website on the right is more visually appealing. Not because it has more colors or whatnot, but because it's organization and structure is a lot more modern and what you expect to see on a website now days.
+
+
+
 ```
 let i = 10;
 let j = 11;
