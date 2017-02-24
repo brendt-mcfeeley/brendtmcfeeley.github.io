@@ -28,6 +28,13 @@ For example, on the left is an example of a website built purely with HTML & CSS
 
 What's the first thing that comes to your mind? Probably that the website on the right is more visually appealing. Not because it has more colors or whatnot, but because it's organization and structure is a lot more modern and what you expect to see on a website now days.
 
+## Why do you websites need to be visually appealing?
+
+According to research such as [this](https://research.googleblog.com/2012/08/users-love-simple-and-familiar-designs.html) one done by Google, your website needs to make a great first impression just like how you need to make a first great impression in real life. According to the study the average user takes only 50 miliseconds (0.05 seconds!) to decide whether they want to stay on the website. And according to the research >This first impression depends on many factors: structure, colors, spacing, symmetry, amount of text, fonts, and more.
+>This first impression depends on many factors: structure, colors, spacing, symmetry, amount of text, fonts, and more.
+
+
+Websites that are built 
 
 # Benefits of using a framework (the good)
 -visually appealing
