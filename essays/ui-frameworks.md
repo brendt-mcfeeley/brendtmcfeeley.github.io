@@ -17,7 +17,7 @@ labels:
 **What do framework websites and Barney Stinson have in common?**
 
 <p align="center">
-  <img src="../images/barneyWebsite.png" height="350" width="700"/>
+  <img src="../images/barneyWebsite.png" height="350" width="950"/>
 </p>
 
 **They're both sharp!**
