@@ -10,11 +10,7 @@ labels:
   - CSS
 ---
 
-<p align="center">
-  <img src="../images/htmlVSsui.png" height="200" width="700"/>
-</p>
-
-**What do framework websites and Barney Stinson have in common?**
+#### What do framework websites and Barney Stinson have in common?
 
 <p align="center">
   <img src="../images/barneyWebsite.png" height="350" width="950"/>
@@ -52,3 +48,7 @@ Also since frameworks include both HTML and CSS elements you also learn the lang
 # Disadvantages of using a framework (the bad)
 
 Now with most good things there has to be a bad side. One bad thing about learning frameworks is that at first they seem imtimidating and hard to use. So far in my experience this is true. The only way to be comfortable using a framework is to just jump in and play around with all the different classes and what they do. There is no other way around it because you have to see how the elements of the framework interact with each other and display on screen. The second bad thing about using a framework is that it takes a lot of creativity. You could just copy a websites design and call it a day but then what are you really learning? The process of learning a framework also includes a creativity aspect. Certain websites would look better with certain layouts and if you can't visiualize the layout in your head you will have a very hard time building the website.
+
+<p align="center">
+  <img src="../images/htmlVSsui.png" height="200" width="700"/>
+</p>
