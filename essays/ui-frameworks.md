@@ -22,6 +22,22 @@ It won't do much if I just explain to you what a UI Framework is, visual example
 
 For example, on the left is an example of a website built purely with HTML & CSS. Next to it there is an example of a website built using Semantic UI.
 
+# Benefits of using a framework (the good)
+-visually appealing
+-modern, etc- does more than raw
+organized
+incorporates html and css elements
+personal experiences using it
+people saying "something that pops!"
+
+
+# Disadvantages of using a framework (the bad)
+harder to use
+takes time to learn
+takes creativity
+
+
+
 <p align="center">
   <img src="../images/rawVSframework.png" height="350" width="900"/>
 </p>
