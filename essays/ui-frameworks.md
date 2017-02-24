@@ -11,28 +11,20 @@ labels:
 ---
 
 <p align="center">
-  <img src="../images/htmlVSsui.png" height="350" width="400"/>
+  <img src="../images/htmlVSsui.png" height="200" width="600"/>
 </p>
 
 ## What is a UI Framework?
 
-First of all, what is a UI Framework? UI stands for user interface and a UI Framework is a software tool to help you build a website that looks like a real website. It won't do much if I just explain to you what a UI Framework is.
+First of all, what is a UI Framework? UI stands for user interface and a UI Framework is a software tool to help you build a website that looks like a real website. There are many different frameworks such as [Semantic UI](http://semantic-ui.com/), [Bootstrap](http://getbootstrap.com/), and [Foundation](http://foundation.zurb.com/).
 
-Visual Examples will be way easier to see how a UI Framework works. There are many different frameworks
+It won't do much if I just explain to you what a UI Framework is, visual examples are the easiest way to explain what UI Interfaces do.
 
-For example, here is a an example of a website built purely with HTML & CSS, which is on the left. Next to it there is an example of a website built using a framework called <link src="http://semantic-ui.com/">Semantic UI.</link>
+For example, here is a an example of a website built purely with HTML & CSS, which is on the left. Next to it there is an example of a website built using a framework called Semantic UI.
 
 <p align="center">
   <img src="../images/rawVSframework.png" height="350" width="800"/>
 </p>
-
-there are many different frameworks
-
-
-and a UI framework is software tools for building software programs to run on web, in the case of Mobile Web,
-such as the Cocoa Touch specifically for the iOS operating system (i.e. iPhone , iPad...).It can be used by Web developers 
-to develop user interfaces for mobile web applications on supported mobile devices. It is fully based on Web Standards such as 
-HTML5, CSS3 and JavaScript. 
 
 ```
 let i = 10;
