@@ -20,7 +20,7 @@ First of all, what is a UI Framework? UI stands for user interface and a UI Fram
 
 It won't do much if I just explain to you what a UI Framework is, visual examples are the easiest way to explain what UI Interfaces do.
 
-For example, here is a an example of a website built purely with HTML & CSS, which is on the left. Next to it there is an example of a website built using a framework called Semantic UI.
+For example, on the left is an example of a website built purely with HTML & CSS. Next to it there is an example of a website built using Semantic UI.
 
 <p align="center">
   <img src="../images/rawVSframework.png" height="350" width="900"/>
