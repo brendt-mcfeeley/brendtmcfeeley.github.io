@@ -16,12 +16,17 @@ The Solution : We will create an app centralizes all events organized by clubs a
 
 # Mockup Pages
 
-* Bullet list
-           * Nested bullet
-            * Sub-nested bullet etc
-          * Bullet list item 2
+* Public Landing Page
+* Login Page
+* User Homepage
+* Admin Homepage (general)
+* Club Admin Homepage
+* Calender
+* Chronological list of events coming up 
 
 # Case Ideas
+
+
 
 # Beyond the Basics
 
