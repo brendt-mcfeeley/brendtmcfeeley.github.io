@@ -8,6 +8,23 @@ labels:
   - Meteor
 ---
 
+# Overview
+
+The Problem : The Department of Engineering sends out too many daily emails to students about upcoming events, clubs, seminars (with guest speakers), fundraisers, scholarships (directed to engineering majors), and faculty forms. Students usually ignore a lot of the emails they get from the university because they think it's spam or not relevent to think and they miss out on a lot of important events and/or imformation.
+
+The Solution : We will create an app centralizes all events organized by clubs and faculty and create a calender for pretty reasons. Club officers and faculty will have access to add, edit, and remove events and information on the app. Anyone with a valid UH email will be able to register and get information for the app as well. Users will be able to "favorite" clubs or certain announcement and receive notifcations for the updates. The user will be able to RSVP via the app so there is an about accurate headcount of how many people will attend.
+
+# Mockup Pages
+
+* Bullet list
+           * Nested bullet
+            * Sub-nested bullet etc
+          * Bullet list item 2
+
+# Case Ideas
+
+# Beyond the Basics
+
 # What is Meteor?
 
 [Meteor](https://www.meteor.com/) is a powerful free and open-source JavaScript web framework. One of the main featues of Meteor is it's ability to quickly prototype the web application you are building and it produces cross-platform code (for Android, iOS, Web, etc.).  
