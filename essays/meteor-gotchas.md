@@ -14,6 +14,13 @@ labels:
 
 # The Biggest Problem I've Solved
 
+I'm not going to lie, I've only completed 2/7 parts of my Digits assignment as of writing this essay so I have not had any major problems, only minor ones. The only problem I've had so far was in the very beginning of Digits, part 2 which was to add a new page and route/index to it with a button.
+
+My problem was when I was adding the code to the index.js file. I accidently overwrote code that linked all the pages together so none of my pages started to show up. I was freaking out about what I did but I realized I was not that far into my code. I revereted it back to the base code and took it step by step and realized that I did not add new code to my index.js file to import my add-contact-page.html but rather I overwrote existing code that was crucial to the web application.
+In the wise words of Philip Johnson :
+> The first thing you should think to yourself is darn I forgot to import it.
+And that is exactly what I did not do, I did not import my add-contact-page.html correctly and I suffered maybe 5-10 mintues trying to fix it. **Always remember to index your pages!**
+
 # The Biggest Problem I Have
 
 One of the biggest problems I've had with the "Digits" Meeteor assignment in my Software Engineering class is having all my routing pages work at once. 
