@@ -12,7 +12,7 @@ labels:
 
 [Meteor](https://www.meteor.com/) is a powerful free and open-source JavaScript web framework. One of the main featues of Meteor is it's ability to quickly prototype the web application you are building and it produces cross-platform code (for Android, iOS, Web, etc.).  
 
-# The Biggest Problem I've Solved
+# My Past Problem
 
 I'm not going to lie, I've only completed 2/7 parts of my Digits assignment as of writing this essay so I have not had any major problems, only minor ones. The only problem I've had so far was in the very beginning of Digits, part 2 which was to add a new page and route/index to it with a button.
 
@@ -23,7 +23,7 @@ In the wise words of Philip Johnson :
 
 And that is exactly what I did not do, I did not import my add-contact-page.html correctly and I suffered maybe 5-10 mintues trying to fix it. **Always remember to index your pages!**
 
-# The Biggest Problem I Have
+# My Current Problem
 
 One of the biggest problems I've had with the "Digits" Meeteor assignment in my Software Engineering class is having all my routing pages work at once. 
 
