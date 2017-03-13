@@ -15,10 +15,8 @@ summary: An app focused on delivering convient locations of nearby farmers marke
 ---
 
 <p align="center">
-  <img src="../images/aloha-farmers-body2.png" height="350" width="900"/>
+  <img src="../images/aloha-farmers-body2.png" height="600" width="900"/>
 </p>
-
-<img class="ui medium centered rounded image" src="../images/aloha-farmers-body2.png">
 
 Aloha Farmers is a web application that I helped create during the AT&T Hackathon in March 2017. Building this application helped me gain a large insight on Meteor and the use of APIs in appliations.
 
