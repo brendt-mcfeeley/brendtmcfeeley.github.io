@@ -1,21 +1,23 @@
 ---
 layout: project
 type: project
-image: images/bank-app.png
+image: images/aloha-farmers.png
 title: Aloha Farmers
 permalink: projects/alohafarmers
 date: 2017
 labels:
-  - HTML / CSS / Semantic UI
-  - JavaScript / UnderscoreJS
+  - HTML
+  - Semantic UI
+  - JavaScript
   - MeteorJS
+  - GitHub
 summary: An app focused on delivering convient locations of nearby farmers markets.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/bank-pro1.png">
+<img class="ui medium center floated rounded image" src="../images/aloha-farmers-body2.png">
 
-This is a program that I developed for my ICS 212 class in Fall 2016. This project helped me learn how to design programs in C and C++ and how to implement data structures such as structs.
+Aloha Farmers is a web application that I helped create during the AT&T Hackathon in March 2017. Building this application helped me gain a large insight on Meteor and the use of APIs in appliations.
 
-This program was originally written using [C](http://www.tutorialspoint.com/cprogramming/c_overview.htm?), then rewritten later using [C++](http://www.cplusplus.com/doc/tutorial/). We were given around two weeks to complete each project. Although some code is reused in the C++ implementation, we used objects along with structs and added in extra functions such as a recursive reverse function.
+Aloha Farmers was created using [Meteor](https://www.meteor.com/), a JavaScript application platform. In only twenty four hours, our team of four created this web application that uses a Hawaii Farmers Market databse API to display all the farmers markets throughout Hawaii by island and city, and also by which days certain markets are open. We also have a Nearby Markets tab which implements the Google Maps API to display all farmers markets within 7 miles of an addressss, zip, or city.
 
-I gained valuable skills while devloping this program. One of the most important skills I learned is the importance of a user friendly UI. The easier you make the program for a user, the less problems you will have to troubleshoot. I also learned a lot about time management and the importance of objects and class hierarchy.
+In this project I learned the entire process and work that goes into building a fully functional application. I learned how to use [MongoDB](https://www.mongodb.com/) for database storage, (Semantic UI)[https://semantic-ui.com/) for CSS Framework and user interface, as well how client and servide-side programming interacts with JavaScript. Lastly I learned how important it is to lay out the foundations of your application and what should be the basic functions.
