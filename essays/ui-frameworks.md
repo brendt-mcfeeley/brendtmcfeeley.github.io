@@ -12,7 +12,7 @@ labels:
 
 # What do framework websites and Barney Stinson have in common?
 
-<p align="center">
+<p align="left">
   <img src="../images/barneyWebsite.png" height="350" width="950"/>
 </p>
 
@@ -26,7 +26,7 @@ It won't do much if I just explain to you what a UI Framework is, visual example
 
 For example, on the left is an example of a website built purely with HTML & CSS. Next to it there is an example of a website built using Semantic UI.
 
-<p align="center">
+<p align="left">
   <img src="../images/rawVSframework.png" height="350" width="900"/>
 </p>
 
