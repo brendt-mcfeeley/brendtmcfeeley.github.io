@@ -25,5 +25,10 @@ The image above accurately reflects on how I felt when I first started using [Me
 
 As previously stated I was becoming a lot more confident and comfortable with Meteor. I like to think of it as a growing tree. The more time goes on the more you grow and understand. That didn't make a lot of sense compared to a tree but you can kind of imagine it. To me the easiest things about Meteor is routing pages and linking them all together. I know it isn't a very hard thing to do but it is a very **crucial** thing to be able to know. Having multiple pages is one of the core parts of a web application or website. Also I find the fact that you can easily use HTML/CSS frameworks and JavaScript librabries combined with IntelliJ and GitHub to be really useful. To be able to see your web application project update in real time and also be able to commit changes on the fly made developing applications so much easier.
 
+<p align="center">
+  <img src="http://i.imgur.com/iWKad22.jpg" height="375" width="600"/>
+</p>
+
 ## Dificulties? Definitely.
 
+Faceplam. If you see someone ever facepalm it's definitely because they're trying to learn or use Meteor. If they just missed the game winning goal in a soccer match and facepalmed? Definitely remembered that they're still learning Meteor at home. All joking aside I find myself facepalming quite often when using Meteor. Specifically when trying to debug my code and figuring out why someone isn't showing up on my application. It mostly has to do with forgetting to index a page. Always. So remembering to import a page in your index or other files is the most difficult thing to do. Someone might ask you to calculate the mass of the sun using the mass of a sock but and you may think that's impossible/difficult, but remembering to index in Meteor is way more difficult. Tenfold.
