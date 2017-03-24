@@ -10,8 +10,6 @@ labels:
   - Applications
 ---
 
-# What do framework websites and Barney Stinson have in common?
-
-
-
-# XD
+<p align="center">
+  <img src="../images/itsme.png" height="325" width="325"/>
+</p>
