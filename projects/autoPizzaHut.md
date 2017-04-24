@@ -24,3 +24,4 @@ Reading all the data from one central point makes it user friendly and easy to u
 
 Creating this project, I learned how web automation works and how useful it can be in certain projects. I also learned the importance of JSON/APIs. Although writing an API from scratch took a while, it made the user experience a lot smoother.
 
+More information as well as the GitHub repository can be found here : https://github.com/brendtmcfeeley/autoPizzaHut
