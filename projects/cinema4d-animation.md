@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/c4d.png
 title: Cinema4D Animation
 permalink: projects/animation
