@@ -10,11 +10,11 @@ labels:
   - Selenium
   - Dash Button
   - JSON
-summary: Conviently orders your favorite order from Pizza Hut with one click of an Amazon Dash Button.
+summary: Conveniently orders your favorite order from Pizza Hut with one click of an Amazon Dash Button.
 ---
 
 <p align="center">
-  <img src="../images/pizzaPy2.png" height="350" width="700"/>
+  <img src="../images/pizzaPy2.png" height="350" width="800"/>
 </p>
 
 AutoPizzaHut is a [Python](https://www.python.org/) based script I wrote to automatically order Pizza Hut with a single click of an Amazon Dash Button! This was my first project written in Python and it helped me get familair with the language as well as how to integrate various APIs within Python.
