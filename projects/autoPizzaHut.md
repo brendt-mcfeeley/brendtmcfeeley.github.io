@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/pizzaPy.png
-title: Aloha Farmers
+title: Auto Pizza Hut
 permalink: projects/autoPH
 date: 2017
 labels:
