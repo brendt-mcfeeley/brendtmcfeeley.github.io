@@ -16,7 +16,7 @@ help humans figure out the best way to live. In a brief summary, to be ethical i
 improve the lives of others with the least amount of diminishing return.
 
 <p align="center">
-  <img src="http://images.nvidia.com/content/crr/2016/project-inspire/fy16-autonomous-cars-header.jpg" height="325" width="700"
+  <img src="../images/acars.jpg" height="325" width="700"
 </p>
 
 ## Autonomous Cars In Our Future
