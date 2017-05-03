@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Autonomous Cars...1 or 10?
-date: 2017-03-23
+date: 2017-05-02
 labels:
   - Software Engineering
   - Ethics
