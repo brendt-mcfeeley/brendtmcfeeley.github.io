@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: false
 title: Autonomous Cars...1 or 10?
 date: 2017-03-23
 labels:
