@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Learning Javascript in Software Engineering
 date: 2017-01-20
 labels:
