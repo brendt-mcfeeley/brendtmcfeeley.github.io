@@ -28,7 +28,7 @@ students for the price of one meal. (One meal has the equivalent value of $5.50)
 Our application features a simple UI :
 
 <p align="center">
-  <img src="../images/mdd_landing.png" height="350" width="800"/>
+  <img src="../images/mdd_landing.jpg" height="350" width="800"/>
 </p>
 
 Having a very straight forward UI removes clutter and makes the intentions of the application clear.
