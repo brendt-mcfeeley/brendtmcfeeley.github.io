@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/gosling.png
 title: Music Video Animation
 permalink: projects/video-animation
