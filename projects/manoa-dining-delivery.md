@@ -57,5 +57,8 @@ logo design. It is definitely noty easy to come up with a logo, even if they loo
 Although a majority of my work was done on the front end, I did end up working on the backend too mainly with our implementation of SweetAlert. We used SweetAlert in place of an actual
 profile page because we felt a profile page was not beneficial to a food delivery application. Thus implementation of SweetAlert made perfect sense.
 
+## What Have I Learned?
 
+This web application was the second one I've built (first one being an AT&T hackathon). One of the best lessons I've learned is using Git in a project setting. I've learned the correct way to manage a project with other people. Organization of the project with issues and milestones made working on the project 1000% easier. Comparing this to my hackathon experience where we were all committing to master and running into problems where our code kept overwriting each other.
 
+I also learned a lot about frontend development. Developing a functioning website from scratch taught me a lot about how divisions work with each other. I also learned how important responsiveness and UI is to a website. Evne though I focused a lot on the front end development I learned a lot about backend JavaScript development and database management.
