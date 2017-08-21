@@ -75,25 +75,27 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawai‘i at Mānoa, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.S.",
       "startDate": "2014-08-23",
       "endDate": "Present",
-      "gpa": "3.0",
-      "courses": [
-        "ICS 111 : Introduction to Computer Science I",
-        "ICS 141 : Discrete Mathematics for Computer Science I",
-        "ICS 211 : Introduction to Computer Science II",
-        "ICS 212 : Program Structure",
-        "ICS 241 : Discrete Mathematics for Computer Science II",
-        "ICS 311 : Algorithms",
-        "ICS 314 : Software Engineering",
-        "ICS 321 : Data Storage and Retrieval",
-      ]
+      "gpa": "3.0"
     }
   ],
   "work": [
+    {
+      "organization": "University of Hawai‘i at Mānoa - Ka Leo O Hawai'i",
+      "website": "http://www.manoanow.org/kaleo/",
+      "position": "Web Developer",
+      "startDate": "2017-08-08",
+      "endDate": "Present",
+      "summary": "Maintain websites of various student media organizations as well as the Mānoa Now mobile application.",
+      "highlights": [
+        "Develop various dynamic web pages for the use in the Mānoa Now application",
+        "Maintain and improve backend of the Mānoa Now and Kaleo websites to ensure proper uptime and loading speeds for better user experience.",
+      ]
+    }
   ],
   "volunteer": [
     {
