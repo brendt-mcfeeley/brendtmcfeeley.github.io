@@ -5,7 +5,7 @@
     "picture": "https://brendtmcfeeley.github.io/images/github300.png",
     "email": "brendt@hawaii.edu",
     "website": "https://brendtmcfeeley.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi at Mānoa. I expect to graduate in Fall, 2018.",
+    "summary": "I am a fourth year student at the University of Hawaiʻi at Mānoa pursing a B.S. in Computer Science. My expected graduation date is December 2018. ",
     "location": {
       "postalCode": "96797",
       "city": "Waipahu",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "real estate",
+      "name": "mobile development",
       "keywords": [
       ]
     },
@@ -52,14 +52,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C++",
         "Java",
         "Javascript",
         "Python",
         "HTML / CSS",
-        "Bootstrap",
         "Semantic UI",
         "MeteorJS",
+        "Angular2",
       ]
     },
     {
@@ -68,8 +67,9 @@
       "keywords": [
         "Windows",
         "UNIX",
+        "MacOS"
         "Git/GitHub",
-        "g++",
+        "Firebase",
       ]
     }
   ],
@@ -112,6 +112,12 @@
     },
   ],
   "awards": [
+    {
+      "title": "First Place Overall - Hawaii Annual Code Challenge",
+      "date": "2017",
+      "awarder": "State of Hawaii",
+      "summary": "Achieved first place at the 2017 Hawaii Annual Code Challenge, a statewide month long hackathon. Built a mobile friendly wayfaring guide to be used by the University of Hawaii at Manoa."
+    },
     {
       "title": "B+ Scholarship",
       "date": "2014-Present",
