@@ -91,7 +91,7 @@
       "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [ 
+      "courses": [
         "Introduction to Computer Science I & II",
         "Discrete Mathematics I & II",
         "Program Structure",
@@ -110,7 +110,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
   ],
   "work": [
     {
