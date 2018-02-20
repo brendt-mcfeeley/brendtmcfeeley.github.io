@@ -1,14 +1,16 @@
 {
   "basics": {
     "name": "Brendt McFeeley",
-    "label": "Student",
+    "label": "Student / Web Developer",
     "picture": "https://brendtmcfeeley.github.io/images/github300.png",
-    "email": "brendt@hawaii.edu",
-    "website": "https://brendtmcfeeley.github.io/",
-    "summary": "I am a fourth year student at the University of Hawaiʻi at Mānoa pursing a B.S. in Computer Science. My expected graduation date is December 2018. ",
+    "email": "brendtmcfeeley@gmail.com",
+    "phone": "",
+    "website": "https://brendtmcfeeley.github.io",
+    "summary": "I am a fourth year student at the University of Hawaiʻi at Mānoa pursing a B.S. in Computer Science. I am also currently a web developer at Kā Leo o Hawaiʻi. My expected graduation date is December 2018.",
     "location": {
-      "postalCode": "96797",
-      "city": "Waipahu",
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -32,17 +34,22 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "mobile development",
+      "name": "Mobile Development",
       "keywords": [
       ]
     },
     {
-      "name": "web development",
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Augmented / Virtual Reality",
       "keywords": [
       ]
     }
@@ -55,7 +62,8 @@
         "Java",
         "Javascript",
         "Python",
-        "HTML / CSS",
+        "HTML5 / CSS",
+        "SQL",
         "Semantic UI",
         "MeteorJS",
         "Angular2",
@@ -66,64 +74,106 @@
       "level": "",
       "keywords": [
         "Windows",
+        "MacOS",
+        "Linux (Ubuntu)",
         "UNIX",
-        "MacOS"
-        "Git/GitHub",
+        "Git",
         "Firebase",
+        "REST",
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawai‘i at Mānoa, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring 2018)",
       "studyType": "B.S.",
-      "startDate": "2014-08-23",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "3.0"
+      "gpa": "",
+      "courses": [ 
+        "Introduction to Computer Science I & II",
+        "Discrete Mathematics I & II",
+        "Program Structure",
+        "Software Engineering I",
+        "Data Storage & Retrievel",
+        "Logic Design & Microprocessors",
+        "Computing Ethics for Lab Assistants"
+      ]
+    },
+    {
+      "institution": "Kauai Community College, Lihue, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2011-09-01",
+      "endDate": "2014-05-31",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "organization": "University of Hawai‘i at Mānoa - Ka Leo O Hawai'i",
-      "website": "http://www.manoanow.org/kaleo/",
-      "position": "Web Developer, University of Hawai‘i at Mānoa - Ka Leo O Hawai'i",
-      "startDate": "2017-08-08",
+      "company": "University of Hawaii at Manoa Information and Computer Sciences Department",
+      "position": "Teaching Assistant",
+      "website": "http://www.ics.hawaii.edu/",
+      "startDate": "2016-08-17",
       "endDate": "Present",
-      "summary": "Maintain websites of various student media organizations as well as the Mānoa Now mobile application.",
+      "summary": "Undergraduate teaching assistant for ICS 101 (Digital Tools for the Information World), teaching the use of various software including Microsoft Office, SSH and Adobe Dreamweaver",
       "highlights": [
-        "Develop various dynamic web pages for the use in the Mānoa Now application",
-        "Maintain and improve backend of the Mānoa Now and Kaleo websites to ensure proper uptime and loading speeds for better user experience.",
+        "Conducted 75-minute lab sessions twice a week",
+        "Developed full lesson plans including class format and material for each lab session",
+        "Handled student grades including grading homework, quizzes and overall course grade"
+      ]
+    },
+    {
+      "company": "County of Kauai Finance Department (Information Technology)",
+      "position": "IT Intern",
+      "website": "http://www.kauai.gov/Government/Departments/Finance/IT",
+      "startDate": "2016-06-16",
+      "endDate": "2016-07-29",
+      "summary": "Interned for the County of Kauai IT Department, handling various technical support issues",
+      "highlights": [
+        "Built and deployed new shipment of computers for county employees that needed an upgrade",
+        "Repaired computers that did not need to be upgraded",
+        "Handled technical calls weekly",
+        "Expanded a local area network",
+        "Securely erased hard drives"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa Information and Computer Sciences Department",
+      "position": "Assistant Teaching Assistant",
+      "website": "http://www.ics.hawaii.edu/",
+      "startDate": "2016-01-16",
+      "endDate": "2016-05-15",
+      "summary": "Assistant teaching assistant for ICS101 (Digital Tools for the Information World), assisting both the teaching assistant and students",
+      "highlights": [
+        "Supported a lab session twice a week helping the teaching assistant throughout their lesson",
+        "Conducted a week of lab",
+        "Developed a week's worth of lesson plans including class format and material"
+      ]
+    },
+    {
+      "company": "County of Kauai Fire Department",
+      "position": "Fire Intern",
+      "website": "http://www.kauai.gov/fire",
+      "startDate": "2015-06-16",
+      "endDate": "2015-07-31",
+      "summary": "Interned for the County of Kauai Fire Department, managing the Fire Department's database",
+      "highlights": [
+        "Database management using DBMS software",
+        "Created and digitized new forms using a variety of software"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Hawaiian Humane Society",
-      "website": "http://hawaiianhumane.org/",
-      "position": "Dog Walker/Groomer",
-      "startDate": "2015-10-19",
-      "endDate": "2016-12-31",
-      "summary": "General Volunteer at the Hawaiian Humane Society with training for the physical health of animals",
-      "highlights": [
-        "Assist families in meeting with animals they wish to adopt",
-        "Maintain animals physical health by either running or walking",
-      ]
-    },
-  ],
   "awards": [
     {
-      "title": "First Place Overall - Hawaii Annual Code Challenge",
-      "date": "2017",
-      "awarder": "State of Hawaii",
-      "summary": "Achieved first place at the 2017 Hawaii Annual Code Challenge, a statewide month long hackathon. Built a mobile friendly wayfaring guide to be used by the University of Hawaii at Manoa."
-    },
-    {
-      "title": "B+ Scholarship",
-      "date": "2014-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+      "title": "Certificate of Achievement - 4th Place",
+      "date": "2016-11-05",
+      "awarder": "International Collegiate Programming Contest",
+      "summary": "Recieved a Certificate of Achievement for placing in 4th place statewide with my team in the International Collegiate Programming Contest, sponsored by IBM."
+    }
   ],
   "references": [
     {

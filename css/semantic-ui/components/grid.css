@@ -1,8 +1,9 @@
 /*!
- * # Semantic UI 2.2.4 - Grid
+ * # Semantic UI 2.1.8 - Grid
  * http://github.com/semantic-org/semantic-ui/
  *
  *
+ * Copyright 2015 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
@@ -968,9 +969,9 @@
       -ms-flex-pack: center;
           justify-content: center;
 }
-.ui.centered.grid > .column:not(.aligned):not(.justified):not(.row),
-.ui.centered.grid > .row > .column:not(.aligned):not(.justified),
-.ui.grid .centered.row > .column:not(.aligned):not(.justified) {
+.ui.centered.grid > .column:not(.aligned):not(.row),
+.ui.centered.grid > .row > .column:not(.aligned),
+.ui.grid .centered.row > .column:not(.aligned) {
   text-align: left;
 }
 .ui.grid > .centered.column,
@@ -1062,11 +1063,6 @@
 .ui.divided.grid:not([class*="vertically divided"]) > .column:first-child,
 .ui.divided.grid:not([class*="vertically divided"]) > .row > .column:first-child {
   box-shadow: none;
-}
-
-/* No space on top of first row */
-.ui[class*="vertically divided"].grid > .row:first-child > .column {
-  margin-top: 0em;
 }
 
 /* Divided Row */
@@ -1208,7 +1204,6 @@
           flex-direction: column;
   vertical-align: middle;
   -ms-flex-item-align: center !important;
-      -ms-grid-row-align: center !important;
       align-self: center !important;
 }
 
@@ -1263,10 +1258,9 @@
 .ui[class*="left aligned"].grid > .row > .column,
 .ui.grid > [class*="left aligned"].row > .column,
 .ui.grid > [class*="left aligned"].column.column,
-.ui.grid > .row > [class*="left aligned"].column.column {
+.ui.grid > .row > [class*="left aligned"].column {
   text-align: left;
   -ms-flex-item-align: inherit;
-      -ms-grid-row-align: inherit;
       align-self: inherit;
 }
 
@@ -1275,10 +1269,9 @@
 .ui[class*="center aligned"].grid > .row > .column,
 .ui.grid > [class*="center aligned"].row > .column,
 .ui.grid > [class*="center aligned"].column.column,
-.ui.grid > .row > [class*="center aligned"].column.column {
+.ui.grid > .row > [class*="center aligned"].column {
   text-align: center;
   -ms-flex-item-align: inherit;
-      -ms-grid-row-align: inherit;
       align-self: inherit;
 }
 .ui[class*="center aligned"].grid {
@@ -1292,10 +1285,9 @@
 .ui[class*="right aligned"].grid > .row > .column,
 .ui.grid > [class*="right aligned"].row > .column,
 .ui.grid > [class*="right aligned"].column.column,
-.ui.grid > .row > [class*="right aligned"].column.column {
+.ui.grid > .row > [class*="right aligned"].column {
   text-align: right;
   -ms-flex-item-align: inherit;
-      -ms-grid-row-align: inherit;
       align-self: inherit;
 }
 
@@ -1304,7 +1296,7 @@
 .ui.justified.grid > .row > .column,
 .ui.grid > .justified.row > .column,
 .ui.grid > .justified.column.column,
-.ui.grid > .row > .justified.column.column {
+.ui.grid > .row > .justified.column {
   text-align: justify;
   -webkit-hyphens: auto;
       -ms-hyphens: auto;
@@ -1696,7 +1688,7 @@
   }
 }
 
-/* Mobile Only */
+/* Mobily Only */
 @media only screen and (max-width: 767px) {
   .ui.grid > .doubling.row,
   .ui.doubling.grid > .row {
