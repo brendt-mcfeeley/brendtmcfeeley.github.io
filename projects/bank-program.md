@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published : false
 image: images/bank-app.png
 title: Bank Record Program
 permalink: projects/bankrecord
