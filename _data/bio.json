@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Brendt McFeeley",
+    "label": "Student / Web Developer",
+    "picture": "https://brendtmcfeeley.github.io/images/github300.png",
+    "email": "brendtmcfeeley@gmail.com",
+    "phone": "",
+    "website": "https://brendtmcfeeley.github.io",
+    "summary": "I am a fourth year student at the University of Hawaiʻi at Mānoa pursing a B.S. in Computer Science. I am also currently a web developer at Kā Leo o Hawaiʻi. My expected graduation date is December 2018.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "brendtmcfeeley",
+        "url": "http://github.com/brendtmcfeeley"
+      },
+      {
+        "network": "linkedin",
+        "username": "brendt-mcfeeley",
+        "url": "https://linkedin.com/in/brendt-mcfeeley-96b137133"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Augmented / Virtual Reality",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Javascript",
+        "Python",
+        "HTML5 / CSS",
+        "SQL",
+        "Semantic UI",
+        "MeteorJS",
+        "Angular2",
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "MacOS",
+        "Linux (Ubuntu)",
+        "UNIX",
+        "Git",
+        "Firebase",
+        "REST",
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawai‘i at Mānoa, Honolulu, HI",
+      "area": "Computer Science (expected Fall 2018)",
+      "studyType": "B.S.",
+      "startDate": "2014-08-23",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        "Discrete Mathematics I & II",
+        "Program Structure",
+        "Algorithms",
+        "Data Storage & Retrievel",
+        "AI Programming",
+        "Logic Design & Microprocessors",
+        "Operating Systems",
+        "Software Engineering I & II",
+        "Special Topics : Software Engineering",
+        "Special Topics : Data Visualization",
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawai‘i at Mānoa - Kā Leo o Hawaiʻi",
+      "position": "Web Developer",
+      "website": "http://www.manoanow.org/",
+      "startDate": "2017-08-08",
+      "endDate": "Present",
+      "summary": "Maintain websites of various student media organizations alongside the Mānoa Now mobile application.",
+      "highlights": [
+        "Develop various dynamic web pages for the use in the Mānoa Now application",
+        "Maintain and improve backend of the Mānoa Now and Kaleo websites to ensure proper uptime and loading speeds for better user experience.",
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "First Place Overall - Hawaii Annual Code Challenge",
+      "date": "2017",
+      "awarder": "State of Hawaii",
+      "summary": "Achieved first place at the 2017 Hawaii Annual Code Challenge, a statewide month long hackathon. Built a mobile friendly wayfaring guide to be used by the University of Hawaii at Manoa."
+    },
+    {
+      "title": "Third Place - Best Self-Promotion Multimedia Ad Campaign",
+      "date": "2018",
+      "awarder": "CMBAM - College Media Business and Advertising Managers",
+      "summary": "Self-promotion and work on the the Mānoa Now mobile application. Built campus events page using JavaScript connected to a Firebase supported backend portal."
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2014-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
