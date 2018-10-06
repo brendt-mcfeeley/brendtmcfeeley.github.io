@@ -4,20 +4,23 @@
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
-<div style="padding-top: 50px;" class="ui middle aligned equal width centered stackable grid container">
+<div style="padding-top: 13%;" class="ui middle aligned equal width centered stackable grid container">
 
-  <div class="row" style="background-color: rgba(255, 255, 255, 0.75);">
-  <div style="text-align: center;" class="column">
+  <div class="row" style="max-width: 75%; background-color: rgba(255, 255, 255, 0.75);">
+  <div style="text-align: center; max-width: 40%" class="column">
     <div  class="ui rounded image">
       <img style="max-width: 300px; padding:5px; border:1px solid #021a40; background-color:#fff;" src="{{ site.data.bio.basics.picture }}">
     </div>
   </div>
 
-  <div class="column">
+  <div style="max-width: 90%" class="column">
     <h2 class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
     <p class="">{{ site.data.bio.basics.label }}</p>
     <p class="">
       {{ site.data.bio.basics.summary }}
+    </p>
+    <p class="">
+      {% include bio-interests-custom.html %}
     </p>
     <p style="text-align: center;">
       {% include home-network-links.html %}
@@ -26,9 +29,9 @@
       <a href="{{ site.baseurl}}/projects/">
         <button class="ui blue inverted button">Projects ({{ num_projects }})</button>
       </a>
-      <a href="{{ site.baseurl}}/essays/">
+      <!--<a href="{{ site.baseurl}}/essays/">
         <button class="ui blue inverted button">Essays ({{ num_essays }})</button>
-      </a>
+      </a>-->
       <a href="{{ site.baseurl}}/downloads/Brendt_McFeeley_Resume.pdf" target="_blank">
         <button class="ui blue inverted button">Resume (PDF)</button>
      </a>
@@ -36,19 +39,8 @@
   </div>
   </div>
 
-  <div class="row" style="padding-top:15px; background-color: rgba(255, 255, 255, 0.75);">
-    <div style="text-align: left; margin-bottom: 20px;" class="ui grid container">
-      {% include bio-interests-custom.html %}
-      {% include bio-skills-custom.html %}
-      {% include bio-education-2.html %}
-      {% include bio-work-2.html %}
-      {% include bio-volunteer-2.html %}
-      {% include bio-publications-2.html %}
-      {% include bio-awards-2.html %}
-    </div>
-  </div>
-
-  <div class="row">
+  <!--
+    <div class="row">
     <div class="column"></div>
     <div class="column">
       <h4 class="header no-bottom">Brendt McFeeley</h4>
@@ -58,5 +50,6 @@
     </div>
     <div class="column"></div>
   </div>
+-->
 
 </div>
