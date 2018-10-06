@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "Mobile Development",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Mobile Development",
       "keywords": [
       ]
     },
@@ -61,7 +61,7 @@
         "SQL",
         "Semantic UI",
         "MeteorJS",
-        "Angular2",
+        "Angular2"
       ]
     },
     {
@@ -74,7 +74,7 @@
         "UNIX",
         "Git",
         "Firebase",
-        "REST",
+        "REST"
       ]
     }
   ],
