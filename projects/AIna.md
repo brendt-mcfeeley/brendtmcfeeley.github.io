@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ainaLogo.png
+image: images/ainaLogo2.png
 title: AI.na
 permalink: projects/AIna
 date: 2018
