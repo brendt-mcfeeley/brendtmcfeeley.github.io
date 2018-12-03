@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ainaSquare.png
+image: images/aina/ainaSquare.png
 title: AI.na
 permalink: projects/AIna
 date: 2018
@@ -15,7 +15,7 @@ summary: Utilize machine learning to identify native Hawaiian plants.
 ---
 
 <p align="center">
-  <img  src="../images/ainaLogo.png">
+  <img  src="../images/aina/ainaLogo.png">
 </p>
 
 # What is AI.na?
