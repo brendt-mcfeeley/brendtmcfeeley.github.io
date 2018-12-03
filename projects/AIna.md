@@ -35,5 +35,5 @@ The basis of our application revolved our TensorFlow, which is an open source ma
 ## Application Overview
 
 <p align="center">
-    <iframe width="560" height="315" src="https://youtu.be/Bln2W999FxA" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtube.com/embed/Bln2W999FxA" frameborder="0" allowfullscreen></iframe>
 </p>
