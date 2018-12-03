@@ -15,7 +15,7 @@ summary: Utilize machine learning to identify native Hawaiian plants.
 ---
 
 <p align="center">
-  <img  src="../images/aina/ainaLogo.png">
+  <img height="350" width="350" src="../images/aina/ainaLogo.png">
 </p>
 
 # What is AI.na?
