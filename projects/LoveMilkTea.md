@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/lmt.png
-title: LoveMilkTea
-permalink: projects/lovemilktea
+title: Wayfinder
+permalink: projects/wayfinder
 date: 2017
 labels:
   - Ionic
@@ -14,9 +14,11 @@ labels:
 summary: Cross platform mobile application wayfaring guide built for University of Hawaii at Manoa.
 ---
 
-# What is LoveMilkTea?
+# What is Wayfinder?
 
-[LoveMilKTea](https://devpost.com/software/ho-okele) is a cross platform mobile application built during the month long [Honolulu Annual Code Challenge](http://hacc.hawaii.gov/). With the help of my team, we took first place createing a mobile wayfaring guide for the University of Hawaii at Manoa.
+[Wayfinder](https://devpost.com/software/ho-okele) is a cross platform mobile application built during the month long [Honolulu Annual Code Challenge](http://hacc.hawaii.gov/). With the help of my team, we took first place createing a mobile wayfaring guide for the University of Hawaii at Manoa.
+
+[GitHub](https://github.com/brendtmcfeeley/Wayfinder)
 
 # The Challenge
 
@@ -28,7 +30,9 @@ The basis of our application was built using [Ionic](https://ionicframework.com/
 
 ## Application Overview
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wLuSS2579hc" frameborder="0" allowfullscreen></iframe>
+</p>
 
 ## What Have I Learned?
 
