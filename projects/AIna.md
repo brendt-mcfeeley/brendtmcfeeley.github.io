@@ -30,7 +30,7 @@ The challenge was initially proposed by [KUPU](http://www.kupuhawaii.org/) and t
 
 # How we Built our Application
 
-The basis of our application revolved our TensorFlow, which is an open source machine learning library. We were able to train our machine learning model on 500-1000 images for each type of flower then transform the graph into a mobile optimized graph using TensorFlow Lite, which helped us keep the performance of our application optimal. This also means that we can push updated machine learning models to phones through updates, reducing the need to train actual graphs on mobile devices. We built an android application around TensorFlow Lite, making sure to keep the UI process steamlined and easy to use. We followed Google's [Material Design Standards](https://material.io/design/) to ensure our application is modern and expressive.
+The basis of our application revolved around TensorFlow, which is an open source machine learning library. We were able to train our machine learning model on 500-1000 images for each type of flower then transform the graph into a mobile optimized graph using TensorFlow Lite, which helped us keep the performance of our application optimal. This also means that we can push updated machine learning models to phones through updates, reducing the need to train actual graphs on mobile devices. We built an android application around TensorFlow Lite, making sure to keep the UI process steamlined and easy to use. We followed Google's [Material Design Standards](https://material.io/design/) to ensure our application is modern and expressive.
 
 ## Application Overview
 
