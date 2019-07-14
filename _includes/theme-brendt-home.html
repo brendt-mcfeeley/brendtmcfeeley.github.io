@@ -1,0 +1,24 @@
+<!-- Custom Home page design -->
+{% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
+{% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
+{% assign num_essays = essay_pages.size %}
+{% assign num_projects = project_pages.size %}
+
+<!-- <div style="color: black" class="ui sidebar">
+  <img style="max-width: 300px; padding:5px; border:1px solid #021a40; background-color:#fff;" src="{{ site.data.bio.basics.picture }}">
+</div> -->
+
+<section>
+    <div id="home" class="container-fluid home text-center">
+        <img id="self-image" src="{{ site.data.bio.basics.picture }}" style="max-width: 225px" class="rounded-circle my-2">
+        <h1 id="name" class="mt-2 mb-3">{{ site.data.bio.basics.name }}</h1>
+        <h2 class="my-3">{{ site.data.bio.basics.label }} at <a href="{{ site.data.bio.basics.companyURL }}">{{ site.data.bio.basics.company }}</a></h2>
+        <div class="container-fluid my-3">
+            <ul class="mx-auto contact-list">
+                <li><a href="https://github.com/brendtmcfeeley"><i class="fab fa-github fa-2x"></i></a></li>
+                <li><a href="mailto:brendtmcfeeley@gmail.com"><i class="fas fa-envelope fa-2x"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/brendt-mcfeeley/"><i class="fab fa-linkedin fa-2x"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</section>

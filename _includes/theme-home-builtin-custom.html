@@ -4,6 +4,13 @@
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
+<div style="color: black" class="ui sidebar">
+  <img style="max-width: 300px; padding:5px; border:1px solid #021a40; background-color:#fff;" src="{{ site.data.bio.basics.picture }}">
+</div>
+<div class="pusher">
+  Your site's actual content
+</div>
+
 <div style="padding-top: 13%;" class="ui middle aligned equal width centered stackable grid container">
 
   <div class="row" style="max-width: 75%; background-color: rgba(255, 255, 255, 0.75);">
@@ -27,7 +34,7 @@
     </p>
     <p style="text-align: center;">
       <a href="{{ site.baseurl}}/projects/">
-        <button class="ui blue inverted button">Projects ({{ num_projects }})</button>
+        Projects ({{ num_projects }})
       </a>
       <!--<a href="{{ site.baseurl}}/essays/">
         <button class="ui blue inverted button">Essays ({{ num_essays }})</button>
