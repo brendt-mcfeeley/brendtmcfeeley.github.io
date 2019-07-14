@@ -1,12 +1,14 @@
 {
   "basics": {
     "name": "Brendt McFeeley",
-    "label": "Student / Web Developer",
-    "picture": "https://brendtmcfeeley.github.io/images/github300.png",
+    "label": "Junior Software Developer",
+    "company": "RevaComm",
+    "companyURL": "https://www.revacomm.com/",
+    "picture": "https://brendtmcfeeley.github.io/images/brendt.png",
     "email": "brendtmcfeeley@gmail.com",
     "phone": "",
     "website": "https://brendtmcfeeley.github.io",
-    "summary": "I am a fourth year student at the University of Hawaiʻi at Mānoa pursing a B.S. in Computer Science. I am also currently a web developer at Kā Leo o Hawaiʻi. My expected graduation date is December 2018.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "96822",

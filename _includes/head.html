@@ -16,6 +16,16 @@
   <script src="{{ site.baseurl }}/css/semantic-ui/semantic.min.js"></script>
   <link rel="stylesheet" href="{{ site.baseurl }}/css/semantic-ui/semantic.min.css">
 
+  <!-- Loading in Bootstrap -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <!-- SVG Icons -->
+  <script src="https://kit.fontawesome.com/97c7544a53.js"></script>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
   <!-- Load Techfolio CSS customizations -->
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-default.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-customizations.css">
@@ -24,3 +34,27 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/print-customizations.css" media="print">
 
 </head>
+
+<div id="site-content" class="mx-auto">
+
+  <nav class="navbar navbar-expand-lg navbar-light mt-3">
+      <a class="navbar-brand" href="#"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <a class="navbar-brand mr-auto" href="{{ site.data.bio.basics.website }}"><i class="fas fa-home"></i></a>
+        <ul class="navbar-nav mt-2 mt-lg-0">
+          <li class="nav-item mx-2">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item mx-2">
+            <a class="nav-link" href="{{ site.baseurl}}/projects/">Projects</a>
+          </li>
+          <li class="nav-item mx-2">
+            <a class="nav-link" href="{{ site.baseurl}}/downloads/Brendt_McFeeley_Resume.pdf">Resume</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
