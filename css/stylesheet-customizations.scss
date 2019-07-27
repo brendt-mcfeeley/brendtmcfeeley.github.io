@@ -11,8 +11,40 @@ body {
   font-family: 'Roboto', serif;
   //background: linear-gradient(left, silver, whitesmoke, silver);
   //  background-image: url("https://i.imgur.com/stVXV8I.png");
+  height: 100vh;
   max-height: 100vh;
 }
+
+.line-hr {
+  border: 3px solid #27A822;
+  // position: absolute;
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+
+.pre-content {  
+  bottom: 100%;
+  margin: 0 !important;
+}
+
+.post-content {
+  position: absolute;
+  top: 99.2vh;
+  margin: 0 !important;
+  display: none;
+}
+
+@media (min-width: 992px) { 
+  .pre-content {  
+    bottom: 100%;
+  }
+  
+  .post-content {
+    top: 99.5%;
+    display: block;
+  }
+ }
 
 // Customize the menubar color
 .ui.menu {
@@ -78,11 +110,12 @@ body {
 }
 
 footer span {
-  font-size: 1.25em;
+  font-size: 1.00rem;
 }
 
 footer p {
-  font-size: 1em;
+  font-size: 0.75rem;
+  margin: 0;
 }
 
 footer a {
@@ -93,4 +126,14 @@ footer a {
 footer a:hover {
   color: rgba(0, 120, 0, 0.5);
   text-decoration: none;
+}
+
+@media (min-width: 992px) { 
+  footer span {
+    font-size: 1.25rem;
+  }
+
+  footer p {
+    font-size: 1Rem;
+  }
 }
