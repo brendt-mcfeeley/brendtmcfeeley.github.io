@@ -5,14 +5,17 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
+body,
+html {
+  height: 100vh;
+}
+
 // Customize the background color
 body {
   background: #ffffff;
   font-family: 'Roboto', serif;
   //background: linear-gradient(left, silver, whitesmoke, silver);
   //  background-image: url("https://i.imgur.com/stVXV8I.png");
-  height: 100vh;
-  max-height: 100vh;
 }
 
 .line-hr {
@@ -29,10 +32,10 @@ body {
 }
 
 .post-content {
-  position: absolute;
-  top: 99.2vh;
+  // position: absolute;
+  // top: 99.2vh;
   margin: 0 !important;
-  display: none;
+  // display: none;
 }
 
 @media (min-width: 992px) { 
@@ -41,8 +44,8 @@ body {
   }
   
   .post-content {
-    top: 99.5%;
-    display: block;
+    // top: 99.5%;
+    // display: block;
   }
  }
 
@@ -67,7 +70,8 @@ body {
 
 #site-content {
   max-width: 70%;
-  min-height: 88vh;
+  min-height: 89.5vh;
+  flex: 1 0 auto;
 }
 
 #section-content h1 {
@@ -109,6 +113,10 @@ body {
   color: black;
 }
 
+#footer {
+  flex-shrink: none;
+}
+
 footer span {
   font-size: 1.00rem;
 }
@@ -134,6 +142,6 @@ footer a:hover {
   }
 
   footer p {
-    font-size: 1Rem;
+    font-size: 1rem;
   }
 }
