@@ -32,22 +32,11 @@ body {
 }
 
 .post-content {
-  // position: absolute;
-  // top: 99.2vh;
+  position: absolute;
+  top: 100.2vh;
   margin: 0 !important;
   // display: none;
 }
-
-@media (min-width: 992px) { 
-  .pre-content {  
-    bottom: 100%;
-  }
-  
-  .post-content {
-    // top: 99.5%;
-    // display: block;
-  }
- }
 
 // Customize the menubar color
 .ui.menu {
@@ -74,14 +63,6 @@ body {
   flex: 1 0 auto;
 }
 
-#section-content h1 {
-  font-size: 2.2525em;
-}
-
-#section-content h2 {
-  font-size: 1.6565em
-}
-
 #self-image {
   border: 3px solid #27A822;
   border-radius: 500px;
@@ -91,18 +72,38 @@ body {
   padding: 0;
 }
 
+#section-content h1 {
+  font-size: 1.9rem;
+}
+
+#section-content h2 {
+  font-size: 1.3rem
+}
+
 .contact-list {
   list-style-type: none;
+  padding: 0;
 }
 
 .contact-list li{
   display: inline;
-  margin-right: 5%
+  margin-right: 5%;
+  margin-left: 5%
+}
+
+.contact-list li a {
+  color: rgba(0, 120, 0, 1.00);
+  transition: 0.2s
+}
+
+.contact-list li a:hover {
+  color: rgba(0, 120, 0, 0.5);
 }
 
 #company {
   color: rgba(0, 120, 0, 1.00);
   text-decoration: none;
+  transition: 0.2s
 }
 
 #company:hover {
@@ -137,6 +138,27 @@ footer a:hover {
 }
 
 @media (min-width: 992px) { 
+  .pre-content {  
+    bottom: 100%;
+  }
+  
+  .post-content {
+    top: 99.4vh;
+  }
+
+  #section-content h1 {
+    font-size: 2.2525em;
+  }
+  
+  #section-content h2 {
+    font-size: 1.6565em
+  }
+
+  .contact-list li{
+    margin-right: 2.5%;
+    margin-left: 2.5%
+  }
+
   footer span {
     font-size: 1.25rem;
   }
