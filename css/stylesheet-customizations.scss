@@ -13,7 +13,6 @@ html {
 // Customize the background color
 body {
   background: #ffffff;
-  font-family: 'Roboto', serif;
   //background: linear-gradient(left, silver, whitesmoke, silver);
   //  background-image: url("https://i.imgur.com/stVXV8I.png");
 }
@@ -54,13 +53,11 @@ body {
 }
 
 #home {
-  margin-top: 10vh;
+  padding-top: 10vh;
 }
 
 #site-content {
-  max-width: 70%;
   min-height: 89.5vh;
-  flex: 1 0 auto;
 }
 
 #self-image {
@@ -70,13 +67,24 @@ body {
 
 .navbar {
   padding: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar-nav {
+  flex-direction: row !important;
+}
+
+.nav-link {
+  color: rgba(0, 120, 0, 1.00) !important;
 }
 
 #section-content h1 {
-  font-size: 1.9rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.3525rem;
 }
 
 #section-content h2 {
+  font-family: 'Raleway', sans-serif;
   font-size: 1.3rem
 }
 
@@ -93,7 +101,7 @@ body {
 
 .contact-list li a {
   color: rgba(0, 120, 0, 1.00);
-  transition: 0.2s
+  transition: 0.2s;
 }
 
 .contact-list li a:hover {
@@ -137,7 +145,36 @@ footer a:hover {
   text-decoration: none;
 }
 
+/***********************************
+      SUPER SMALL PHONES
+***********************************/
+
+@media (max-width: 320px) {
+  #section-content h1 {
+    font-size: 2.1rem;
+  }
+  
+  #section-content h2 {
+    font-size: 1.3rem
+  }
+}
+
+@media (max-width: 991px) {
+  .col-xs-12 {
+    text-align: center;
+  }
+}
+
+/***********************************
+      BIG-ISH SCREENS
+***********************************/
+
 @media (min-width: 992px) { 
+  #site-content {
+    max-width: 90%;
+    flex: 1 0 auto;
+  }
+
   .pre-content {  
     bottom: 100%;
   }
@@ -146,12 +183,20 @@ footer a:hover {
     top: 99.4vh;
   }
 
+  #home {
+    padding-top: 20vh;
+  }
+
   #section-content h1 {
-    font-size: 2.2525em;
+    font-size: 4.0rem;
   }
   
   #section-content h2 {
-    font-size: 1.6565em
+    font-size: 1.85rem
+  }
+
+  .col-md-8 {
+    border-left: 2px solid black;
   }
 
   .contact-list li{
@@ -165,5 +210,23 @@ footer a:hover {
 
   footer p {
     font-size: 1rem;
+  }
+}
+
+/***********************************
+      LARGE LAPTOPS / DESKTOPS
+***********************************/
+
+@media (min-width: 1200px) {
+  #site-content {
+    max-width: 70%;
+  }
+
+  #section-content h1 {
+    font-size: 5.0rem;
+  }
+  
+  #section-content h2 {
+    font-size: 1.925em
   }
 }
