@@ -147,6 +147,12 @@ body {
       BIG-ISH SCREENS
 ***********************************/
 
+@media (min-width: 768px) {
+  .col-md-7 {
+    border-left: 2px solid black;
+  }
+}
+
 @media (min-width: 992px) { 
   #site-content {
     max-width: 90%;
@@ -173,7 +179,7 @@ body {
     font-size: 1.85rem
   }
 
-  .col-md-8 {
+  .col-lg-8 {
     border-left: 2px solid black;
   }
 
