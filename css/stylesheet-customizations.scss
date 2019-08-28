@@ -99,15 +99,6 @@ body {
   margin-left: 5%
 }
 
-.contact-list li a {
-  color: rgba(0, 120, 0, 1.00);
-  transition: 0.2s;
-}
-
-.contact-list li a:hover {
-  color: rgba(0, 120, 0, 0.5);
-}
-
 #company {
   color: rgba(0, 120, 0, 1.00);
   text-decoration: none;
@@ -118,8 +109,13 @@ body {
   color: rgba(0, 120, 0, 0.5);
 }
 
-.icon-link {
-  color: black;
+.icon-link span {
+  color: rgba(0, 120, 0, 1);
+  transition: 0.2s
+}
+
+.icon-link span:hover {
+  color: rgba(0, 120, 0, 0.5);
 }
 
 #footer {
