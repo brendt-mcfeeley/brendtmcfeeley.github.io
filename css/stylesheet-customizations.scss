@@ -70,7 +70,7 @@ body {
 }
 
 .nav-link {
-  color: rgba(0, 120, 0, 1.00) !important;
+  color: rgba(39, 168, 34, 1.0) !important;
   font-size: 1.0252rem;
 }
 
@@ -100,7 +100,7 @@ body {
 }
 
 #company {
-  color: rgba(0, 120, 0, 1.00);
+  color: rgba(39, 168, 34, 1.0);
   text-decoration: none;
   transition: 0.2s
 }
@@ -110,7 +110,7 @@ body {
 }
 
 .icon-link span {
-  color: rgba(0, 120, 0, 1);
+  color: rgba(39, 168, 34, 1.0);
   transition: 0.2s
 }
 
@@ -130,6 +130,16 @@ body {
 #moto-pic {
   height: 175px;
   width: 100%
+}
+
+.fa-home {
+  color: rgba(39, 168, 34, 1.0);
+  transition: 0.2s;
+}
+
+.fa-home:hover {
+  color: rgba(0, 120, 0, 1.0);
+  transform: translateY(-7px);
 }
 
 /***********************************
