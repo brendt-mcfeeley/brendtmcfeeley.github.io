@@ -72,6 +72,7 @@ body {
 .nav-link {
   color: rgba(39, 168, 34, 1.0) !important;
   font-size: 1.0252rem;
+  transition: 0.2s;
 }
 
 .nav-link:hover {
@@ -115,7 +116,7 @@ body {
 }
 
 .icon-link span:hover {
-  color: rgba(0, 120, 0, 0.5);
+  color: rgba(0, 120, 0, 1.0);
   transform: translateY(-7px);
 }
 
