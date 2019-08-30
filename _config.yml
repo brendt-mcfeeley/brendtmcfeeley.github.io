@@ -16,7 +16,8 @@ bio-page-label: Resume
 theme-home: theme-brendt-home.html
 theme-projects: theme-brendt-projects.html
 theme-essays: theme-essays-builtin-custom.html
-theme-bio: theme-bio-builtin-1.html
+theme-bio: theme-brendt-about.html
+theme-about: theme-brendt-about.html
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown

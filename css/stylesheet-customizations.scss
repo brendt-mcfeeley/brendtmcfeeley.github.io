@@ -123,6 +123,15 @@ body {
   text-decoration: none;
 }
 
+#about-me {
+  width: 100%;
+}
+
+#moto-pic {
+  height: 175px;
+  width: 100%
+}
+
 /***********************************
       SUPER SMALL PHONES
 ***********************************/
@@ -150,6 +159,11 @@ body {
 @media (min-width: 768px) {
   .col-md-7 {
     border-left: 2px solid black;
+  }
+
+  #moto-pic {
+    height: 350px;
+    width: 700px;
   }
 }
 
@@ -212,5 +226,9 @@ body {
   
   #section-content h2 {
     font-size: 1.925em
+  }
+
+  #about-me {
+    width: 70%;
   }
 }
