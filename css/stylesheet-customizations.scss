@@ -13,8 +13,6 @@ html {
 // Customize the background color
 body {
   background: #ffffff;
-  //background: linear-gradient(left, silver, whitesmoke, silver);
-  //  background-image: url("https://i.imgur.com/stVXV8I.png");
 }
 
 .line-hr {
@@ -34,12 +32,6 @@ body {
   position: absolute;
   top: 100.2vh;
   margin: 0 !important;
-  // display: none;
-}
-
-// Customize the menubar color
-.ui.menu {
-  background: silver;
 }
 
 .container.home {
@@ -70,7 +62,7 @@ body {
 }
 
 .nav-link {
-  color: rgba(39, 168, 34, 1.0) !important;
+  color: black !important;
   font-size: 1.0252rem;
   transition: 0.2s;
 }
@@ -134,7 +126,6 @@ body {
 }
 
 .fa-home {
-  color: rgba(39, 168, 34, 1.0);
   transition: 0.2s;
 }
 
