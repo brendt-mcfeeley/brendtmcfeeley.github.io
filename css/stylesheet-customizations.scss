@@ -34,10 +34,6 @@ body {
   margin: 0 !important;
 }
 
-.container.home {
-  margin-top: 10vh;
-}
-
 #home {
   padding-top: 10vh;
 }
@@ -71,12 +67,12 @@ body {
   color: rgba(0, 120, 0, 0.5) !important;
 }
 
-#section-content h1 {
+h1 {
   font-family: 'Oswald', sans-serif;
   font-size: 2.3525rem;
 }
 
-#section-content h2 {
+h2 {
   font-family: 'Raleway', sans-serif;
   font-size: 1.3rem
 }
@@ -132,6 +128,30 @@ body {
 .fa-home:hover {
   color: rgba(0, 120, 0, 1.0);
   transform: translateY(-7px);
+}
+
+#missing-content {
+  padding-top: 20vh;
+}
+
+#missing-text {
+  font-size: 8rem !important;
+  padding-left: 15px;
+}
+
+#missing-content h2 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#missing-content a {
+  color: rgba(0, 120, 0, 1.0);
+  text-decoration: none;
+  transition: 2ms;
+}
+
+#missing-content a:hover {
+  color: rgba(0, 120, 0, 0.5);
 }
 
 /***********************************
