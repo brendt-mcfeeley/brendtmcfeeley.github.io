@@ -31,22 +31,22 @@
   },
   "interests": [
     {
+      "name": "DevOps",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Containerization",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Web Development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Mobile Development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Augmented / Virtual Reality",
       "keywords": [
       ]
     }
@@ -98,7 +98,7 @@
         "Operating Systems",
         "Software Engineering I & II",
         "Special Topics : Software Engineering",
-        "Special Topics : Data Visualization",
+        "Special Topics : Data Visualization"
       ]
     }
   ],
@@ -112,7 +112,7 @@
       "summary": "Maintain websites of various student media organizations alongside the Mānoa Now mobile application.",
       "highlights": [
         "Develop various dynamic web pages for the use in the Mānoa Now application",
-        "Maintain and improve backend of the Mānoa Now and Kaleo websites to ensure proper uptime and loading speeds for better user experience.",
+        "Maintain and improve backend of the Mānoa Now and Kaleo websites to ensure proper uptime and loading speeds for better user experience."
       ]
     }
   ],
@@ -134,7 +134,7 @@
       "date": "2014-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+    }
   ],
   "references": [
     {
