@@ -45,6 +45,7 @@ body {
 #self-image {
   border: 3px solid #27A822;
   border-radius: 500px;
+  max-width: 225px;
 }
 
 .navbar {
@@ -175,12 +176,28 @@ h2 {
 }
 
 /***********************************
-      BIG-ISH SCREENS
+      BIG-ISH SCREENS / Tablets
 ***********************************/
 
 @media (min-width: 768px) {
-  .col-md-7 {
+  .col-md-8 {
     border-left: 2px solid black;
+  }
+
+  #self-image {
+    max-width: 200px;
+  }
+
+  #section-content h1 {
+    font-size: 4.25rem;
+  }
+  
+  #section-content h2 {
+    font-size: 1.35rem
+  }
+
+  .fa-lg {
+    font-size: 1.15;
   }
 
   #moto-pic {
@@ -188,6 +205,8 @@ h2 {
     width: 700px;
   }
 }
+
+/* regular laptops */
 
 @media (min-width: 992px) { 
   #site-content {
@@ -208,15 +227,23 @@ h2 {
   }
 
   #section-content h1 {
-    font-size: 4.0rem;
+    font-size: 5rem;
   }
   
   #section-content h2 {
     font-size: 1.85rem
   }
 
+  #self-image {
+    max-width: 225px;
+  }
+
   .col-lg-8 {
     border-left: 2px solid black;
+  }
+
+  .fa-lg {
+    font-size: 1.4242;
   }
 
   .contact-list li{
@@ -239,15 +266,27 @@ h2 {
 
 @media (min-width: 1200px) {
   #site-content {
-    max-width: 70%;
+    max-width: 90%;
   }
 
   #section-content h1 {
-    font-size: 5.0rem;
+    font-size: 8.0rem;
+  }
+
+  .nav-link, .fa-home {
+    font-size: 1.3625rem;
+  }
+
+  #self-image {
+    max-width: 275px;
   }
   
   #section-content h2 {
-    font-size: 1.925em
+    font-size: 2.125em
+  }
+
+  .fa-lg {
+    font-size: 1.5252rem;
   }
 
   #about-me {
