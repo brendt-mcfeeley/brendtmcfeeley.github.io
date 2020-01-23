@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Brendt McFeeley",
-    "label": "Junior Software Developer",
+    "label": "Software Developer",
     "company": "RevaComm",
     "companyURL": "https://www.revacomm.com/",
     "picture": "https://brendtmcfeeley.github.io/images/brendt.png",
     "email": "brendtmcfeeley@gmail.com",
     "phone": "",
     "website": "https://brendtmcfeeley.github.io",
-    "summary": "Software Developer at RevaComm",
+    "summary": "I am a software developer at RevaComm focusing on CI/CD platforms and Kubernetes container orchestration",
     "location": {
       "address": "",
       "postalCode": "96822",
