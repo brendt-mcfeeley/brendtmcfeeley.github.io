@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Brendt McFeeley",
-    "label": "Software Developer",
+    "label": "DevSecOps Engineer",
     "company": "RevaComm",
     "companyURL": "https://www.revacomm.com/",
     "picture": "https://brendtmcfeeley.github.io/images/brendt.png",
     "email": "brendtmcfeeley@gmail.com",
     "phone": "",
     "website": "https://brendtmcfeeley.github.io",
-    "summary": "I am a software developer at RevaComm focusing on CI/CD platforms and Kubernetes container orchestration",
+    "summary": "DevSecOps Engineer at RevaComm focusing on CI/CD pipelines and Kubernetes deployments",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -47,6 +47,11 @@
     },
     {
       "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "CI/CD",
       "keywords": [
       ]
     }
