@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Brendt McFeeley",
-    "label": "DevSecOps Engineer",
-    "company": "RevaComm",
-    "companyURL": "https://www.revacomm.com/",
+    "label": "Site Reliability Engineer",
+    "company": "Swimlane",
+    "companyURL": "https://swimlane.com/",
     "picture": "https://brendtmcfeeley.github.io/images/brendt.png",
     "email": "brendtmcfeeley@gmail.com",
     "phone": "",
     "website": "https://brendtmcfeeley.github.io",
-    "summary": "DevSecOps Engineer at RevaComm focusing on CI/CD pipelines and Kubernetes deployments",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "96822",
